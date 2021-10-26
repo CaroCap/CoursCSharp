@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DemoTypeDonneesPredefinis/1.0.0": {
+        "dependencies": {
+          "DemoVariables": "1.0.0"
+        },
+        "runtime": {
+          "DemoTypeDonneesPredefinis.dll": {}
+        }
+      },
+      "DemoVariables/1.0.0": {
+        "runtime": {
+          "DemoVariables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoTypeDonneesPredefinis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoVariables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

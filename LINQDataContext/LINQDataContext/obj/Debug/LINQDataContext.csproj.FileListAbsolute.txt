@@ -1,0 +1,25 @@
+D:\Developpement\Visual Studio 2010\Projects\LinqExercices\LINQDataContext\obj\Debug\ResolveAssemblyReference.cache
+D:\Developpement\Visual Studio 2010\Projects\LinqExercices\LINQDataContext\bin\Debug\LINQDataContext.dll
+D:\Developpement\Visual Studio 2010\Projects\LinqExercices\LINQDataContext\bin\Debug\LINQDataContext.pdb
+D:\Developpement\Visual Studio 2010\Projects\LinqExercices\LINQDataContext\obj\Debug\LINQDataContext.dll
+D:\Developpement\Visual Studio 2010\Projects\LinqExercices\LINQDataContext\obj\Debug\LINQDataContext.pdb
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\LINQDataContext\bin\Debug\LINQDataContext.dll
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\LINQDataContext\bin\Debug\LINQDataContext.pdb
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\LINQDataContext\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\LINQDataContext\obj\Debug\LINQDataContext.dll
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\LINQDataContext\obj\Debug\LINQDataContext.pdb
+D:\Fences\Cours\Linq\Exercices\LINQDataContext\LINQDataContext\bin\Debug\LINQDataContext.dll
+D:\Fences\Cours\Linq\Exercices\LINQDataContext\LINQDataContext\bin\Debug\LINQDataContext.pdb
+D:\Fences\Cours\Linq\Exercices\LINQDataContext\LINQDataContext\obj\Debug\LINQDataContext.dll
+D:\Fences\Cours\Linq\Exercices\LINQDataContext\LINQDataContext\obj\Debug\LINQDataContext.pdb
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\LINQDataContext\bin\Debug\LINQDataContext.dll
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\LINQDataContext\bin\Debug\LINQDataContext.pdb
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\LINQDataContext\obj\Debug\LINQDataContext.csprojResolveAssemblyReference.cache
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\LINQDataContext\obj\Debug\LINQDataContext.dll
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\LINQDataContext\obj\Debug\LINQDataContext.pdb
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\LINQDataContext\bin\Debug\LINQDataContext.dll
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\LINQDataContext\bin\Debug\LINQDataContext.pdb
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\LINQDataContext\obj\Debug\LINQDataContext.csproj.AssemblyReference.cache
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\LINQDataContext\obj\Debug\LINQDataContext.csproj.CoreCompileInputs.cache
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\LINQDataContext\obj\Debug\LINQDataContext.dll
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\LINQDataContext\obj\Debug\LINQDataContext.pdb

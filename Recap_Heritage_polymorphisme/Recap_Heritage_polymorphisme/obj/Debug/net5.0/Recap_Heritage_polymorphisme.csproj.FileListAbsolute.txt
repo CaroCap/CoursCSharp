@@ -1,0 +1,16 @@
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\bin\Debug\net5.0\Recap_Heritage_polymorphisme.exe
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\bin\Debug\net5.0\Recap_Heritage_polymorphisme.deps.json
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\bin\Debug\net5.0\Recap_Heritage_polymorphisme.runtimeconfig.json
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\bin\Debug\net5.0\Recap_Heritage_polymorphisme.runtimeconfig.dev.json
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\bin\Debug\net5.0\Recap_Heritage_polymorphisme.dll
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\bin\Debug\net5.0\ref\Recap_Heritage_polymorphisme.dll
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\bin\Debug\net5.0\Recap_Heritage_polymorphisme.pdb
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\obj\Debug\net5.0\Recap_Heritage_polymorphisme.csproj.AssemblyReference.cache
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\obj\Debug\net5.0\Recap_Heritage_polymorphisme.GeneratedMSBuildEditorConfig.editorconfig
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\obj\Debug\net5.0\Recap_Heritage_polymorphisme.AssemblyInfoInputs.cache
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\obj\Debug\net5.0\Recap_Heritage_polymorphisme.AssemblyInfo.cs
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\obj\Debug\net5.0\Recap_Heritage_polymorphisme.csproj.CoreCompileInputs.cache
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\obj\Debug\net5.0\Recap_Heritage_polymorphisme.dll
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\obj\Debug\net5.0\ref\Recap_Heritage_polymorphisme.dll
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\obj\Debug\net5.0\Recap_Heritage_polymorphisme.pdb
+I:\sources\I3Bxl_Wad21\Recap_Heritage_polymorphisme\Recap_Heritage_polymorphisme\obj\Debug\net5.0\Recap_Heritage_polymorphisme.genruntimeconfig.cache

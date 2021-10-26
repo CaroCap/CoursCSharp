@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\bin\Debug\net5.0\DemoCollections.exe
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\bin\Debug\net5.0\DemoCollections.deps.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\bin\Debug\net5.0\DemoCollections.runtimeconfig.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\bin\Debug\net5.0\DemoCollections.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\bin\Debug\net5.0\DemoCollections.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\bin\Debug\net5.0\ref\DemoCollections.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\bin\Debug\net5.0\DemoCollections.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\obj\Debug\net5.0\DemoCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\obj\Debug\net5.0\DemoCollections.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\obj\Debug\net5.0\DemoCollections.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\obj\Debug\net5.0\DemoCollections.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\obj\Debug\net5.0\DemoCollections.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\obj\Debug\net5.0\ref\DemoCollections.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\obj\Debug\net5.0\DemoCollections.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\obj\Debug\net5.0\DemoCollections.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollections\obj\Debug\net5.0\DemoCollections.csprojAssemblyReference.cache

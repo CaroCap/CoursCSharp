@@ -1,0 +1,16 @@
+C:\Users\Caroline\source\repos\ExFilm\bin\Debug\net5.0\ExFilm.exe
+C:\Users\Caroline\source\repos\ExFilm\bin\Debug\net5.0\ExFilm.deps.json
+C:\Users\Caroline\source\repos\ExFilm\bin\Debug\net5.0\ExFilm.runtimeconfig.json
+C:\Users\Caroline\source\repos\ExFilm\bin\Debug\net5.0\ExFilm.runtimeconfig.dev.json
+C:\Users\Caroline\source\repos\ExFilm\bin\Debug\net5.0\ExFilm.dll
+C:\Users\Caroline\source\repos\ExFilm\bin\Debug\net5.0\ref\ExFilm.dll
+C:\Users\Caroline\source\repos\ExFilm\bin\Debug\net5.0\ExFilm.pdb
+C:\Users\Caroline\source\repos\ExFilm\obj\Debug\net5.0\ExFilm.csproj.AssemblyReference.cache
+C:\Users\Caroline\source\repos\ExFilm\obj\Debug\net5.0\ExFilm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline\source\repos\ExFilm\obj\Debug\net5.0\ExFilm.AssemblyInfoInputs.cache
+C:\Users\Caroline\source\repos\ExFilm\obj\Debug\net5.0\ExFilm.AssemblyInfo.cs
+C:\Users\Caroline\source\repos\ExFilm\obj\Debug\net5.0\ExFilm.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\source\repos\ExFilm\obj\Debug\net5.0\ExFilm.dll
+C:\Users\Caroline\source\repos\ExFilm\obj\Debug\net5.0\ref\ExFilm.dll
+C:\Users\Caroline\source\repos\ExFilm\obj\Debug\net5.0\ExFilm.pdb
+C:\Users\Caroline\source\repos\ExFilm\obj\Debug\net5.0\ExFilm.genruntimeconfig.cache

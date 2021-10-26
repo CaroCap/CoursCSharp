@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\bin\Debug\net5.0\DemoStructures.exe
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\bin\Debug\net5.0\DemoStructures.deps.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\bin\Debug\net5.0\DemoStructures.runtimeconfig.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\bin\Debug\net5.0\DemoStructures.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\bin\Debug\net5.0\DemoStructures.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\bin\Debug\net5.0\ref\DemoStructures.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\bin\Debug\net5.0\DemoStructures.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\obj\Debug\net5.0\DemoStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\obj\Debug\net5.0\DemoStructures.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\obj\Debug\net5.0\DemoStructures.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\obj\Debug\net5.0\DemoStructures.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\obj\Debug\net5.0\DemoStructures.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\obj\Debug\net5.0\ref\DemoStructures.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\obj\Debug\net5.0\DemoStructures.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\obj\Debug\net5.0\DemoStructures.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructures\obj\Debug\net5.0\DemoStructures.csprojAssemblyReference.cache

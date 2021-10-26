@@ -1,0 +1,16 @@
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\bin\Debug\net5.0\GestBank.exe
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\bin\Debug\net5.0\GestBank.deps.json
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\bin\Debug\net5.0\GestBank.runtimeconfig.json
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\bin\Debug\net5.0\GestBank.runtimeconfig.dev.json
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\bin\Debug\net5.0\GestBank.dll
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\bin\Debug\net5.0\ref\GestBank.dll
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\bin\Debug\net5.0\GestBank.pdb
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\obj\Debug\net5.0\GestBank.csproj.AssemblyReference.cache
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\obj\Debug\net5.0\GestBank.GeneratedMSBuildEditorConfig.editorconfig
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\obj\Debug\net5.0\GestBank.AssemblyInfoInputs.cache
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\obj\Debug\net5.0\GestBank.AssemblyInfo.cs
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\obj\Debug\net5.0\GestBank.csproj.CoreCompileInputs.cache
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\obj\Debug\net5.0\GestBank.dll
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\obj\Debug\net5.0\ref\GestBank.dll
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\obj\Debug\net5.0\GestBank.pdb
+I:\sources\I3Bxl_Wad21\GestBank\GestBank\obj\Debug\net5.0\GestBank.genruntimeconfig.cache

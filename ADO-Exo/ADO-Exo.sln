@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ADO-Exo", "ADO-Exo.sqlproj", "{6A311231-153A-4C40-AA4D-38B2ACA3FE9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOConnection", "..\ADOConnection\ADOConnection.csproj", "{6EA944E1-6D5D-4631-82A9-5AAD1C1D8FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A311231-153A-4C40-AA4D-38B2ACA3FE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A311231-153A-4C40-AA4D-38B2ACA3FE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A311231-153A-4C40-AA4D-38B2ACA3FE9E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6A311231-153A-4C40-AA4D-38B2ACA3FE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A311231-153A-4C40-AA4D-38B2ACA3FE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A311231-153A-4C40-AA4D-38B2ACA3FE9E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6EA944E1-6D5D-4631-82A9-5AAD1C1D8FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA944E1-6D5D-4631-82A9-5AAD1C1D8FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA944E1-6D5D-4631-82A9-5AAD1C1D8FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA944E1-6D5D-4631-82A9-5AAD1C1D8FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F4E4DAC-B08C-4B73-87E8-3E5FA295E8BF}
+	EndGlobalSection
+EndGlobal

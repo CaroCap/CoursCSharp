@@ -1,0 +1,16 @@
+C:\Users\Caroline\source\repos\CoursClass\bin\Debug\net5.0\CoursClass.exe
+C:\Users\Caroline\source\repos\CoursClass\bin\Debug\net5.0\CoursClass.deps.json
+C:\Users\Caroline\source\repos\CoursClass\bin\Debug\net5.0\CoursClass.runtimeconfig.json
+C:\Users\Caroline\source\repos\CoursClass\bin\Debug\net5.0\CoursClass.runtimeconfig.dev.json
+C:\Users\Caroline\source\repos\CoursClass\bin\Debug\net5.0\CoursClass.dll
+C:\Users\Caroline\source\repos\CoursClass\bin\Debug\net5.0\ref\CoursClass.dll
+C:\Users\Caroline\source\repos\CoursClass\bin\Debug\net5.0\CoursClass.pdb
+C:\Users\Caroline\source\repos\CoursClass\obj\Debug\net5.0\CoursClass.csproj.AssemblyReference.cache
+C:\Users\Caroline\source\repos\CoursClass\obj\Debug\net5.0\CoursClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline\source\repos\CoursClass\obj\Debug\net5.0\CoursClass.AssemblyInfoInputs.cache
+C:\Users\Caroline\source\repos\CoursClass\obj\Debug\net5.0\CoursClass.AssemblyInfo.cs
+C:\Users\Caroline\source\repos\CoursClass\obj\Debug\net5.0\CoursClass.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\source\repos\CoursClass\obj\Debug\net5.0\CoursClass.dll
+C:\Users\Caroline\source\repos\CoursClass\obj\Debug\net5.0\ref\CoursClass.dll
+C:\Users\Caroline\source\repos\CoursClass\obj\Debug\net5.0\CoursClass.pdb
+C:\Users\Caroline\source\repos\CoursClass\obj\Debug\net5.0\CoursClass.genruntimeconfig.cache

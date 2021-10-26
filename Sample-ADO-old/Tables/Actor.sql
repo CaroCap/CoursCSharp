@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Actor]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Nom] VARCHAR(50) NOT NULL
+)

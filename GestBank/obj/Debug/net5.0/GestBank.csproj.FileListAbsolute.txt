@@ -1,0 +1,16 @@
+C:\Users\Caroline\source\repos\GestBank\bin\Debug\net5.0\GestBank.exe
+C:\Users\Caroline\source\repos\GestBank\bin\Debug\net5.0\GestBank.deps.json
+C:\Users\Caroline\source\repos\GestBank\bin\Debug\net5.0\GestBank.runtimeconfig.json
+C:\Users\Caroline\source\repos\GestBank\bin\Debug\net5.0\GestBank.runtimeconfig.dev.json
+C:\Users\Caroline\source\repos\GestBank\bin\Debug\net5.0\GestBank.dll
+C:\Users\Caroline\source\repos\GestBank\bin\Debug\net5.0\ref\GestBank.dll
+C:\Users\Caroline\source\repos\GestBank\bin\Debug\net5.0\GestBank.pdb
+C:\Users\Caroline\source\repos\GestBank\obj\Debug\net5.0\GestBank.csproj.AssemblyReference.cache
+C:\Users\Caroline\source\repos\GestBank\obj\Debug\net5.0\GestBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline\source\repos\GestBank\obj\Debug\net5.0\GestBank.AssemblyInfoInputs.cache
+C:\Users\Caroline\source\repos\GestBank\obj\Debug\net5.0\GestBank.AssemblyInfo.cs
+C:\Users\Caroline\source\repos\GestBank\obj\Debug\net5.0\GestBank.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\source\repos\GestBank\obj\Debug\net5.0\GestBank.dll
+C:\Users\Caroline\source\repos\GestBank\obj\Debug\net5.0\ref\GestBank.dll
+C:\Users\Caroline\source\repos\GestBank\obj\Debug\net5.0\GestBank.pdb
+C:\Users\Caroline\source\repos\GestBank\obj\Debug\net5.0\GestBank.genruntimeconfig.cache

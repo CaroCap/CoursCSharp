@@ -1,0 +1,16 @@
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\bin\Debug\net5.0\Exercices.exe
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\bin\Debug\net5.0\Exercices.deps.json
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\bin\Debug\net5.0\Exercices.runtimeconfig.json
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\bin\Debug\net5.0\Exercices.runtimeconfig.dev.json
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\bin\Debug\net5.0\Exercices.dll
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\bin\Debug\net5.0\ref\Exercices.dll
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\bin\Debug\net5.0\Exercices.pdb
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\obj\Debug\net5.0\Exercices.csproj.AssemblyReference.cache
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\obj\Debug\net5.0\Exercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\obj\Debug\net5.0\Exercices.AssemblyInfoInputs.cache
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\obj\Debug\net5.0\Exercices.AssemblyInfo.cs
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\obj\Debug\net5.0\Exercices.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\obj\Debug\net5.0\Exercices.dll
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\obj\Debug\net5.0\ref\Exercices.dll
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\obj\Debug\net5.0\Exercices.pdb
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\Exercices\obj\Debug\net5.0\Exercices.genruntimeconfig.cache

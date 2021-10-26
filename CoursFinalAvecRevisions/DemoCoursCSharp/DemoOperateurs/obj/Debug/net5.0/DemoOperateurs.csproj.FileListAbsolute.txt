@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\bin\Debug\net5.0\DemoOperateurs.exe
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\bin\Debug\net5.0\DemoOperateurs.deps.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\bin\Debug\net5.0\DemoOperateurs.runtimeconfig.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\bin\Debug\net5.0\DemoOperateurs.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\bin\Debug\net5.0\DemoOperateurs.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\bin\Debug\net5.0\ref\DemoOperateurs.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\bin\Debug\net5.0\DemoOperateurs.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\obj\Debug\net5.0\DemoOperateurs.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\obj\Debug\net5.0\DemoOperateurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\obj\Debug\net5.0\DemoOperateurs.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\obj\Debug\net5.0\DemoOperateurs.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\obj\Debug\net5.0\DemoOperateurs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\obj\Debug\net5.0\DemoOperateurs.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\obj\Debug\net5.0\ref\DemoOperateurs.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\obj\Debug\net5.0\DemoOperateurs.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoOperateurs\obj\Debug\net5.0\DemoOperateurs.genruntimeconfig.cache

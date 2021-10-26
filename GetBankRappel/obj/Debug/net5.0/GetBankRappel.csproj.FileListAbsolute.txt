@@ -1,0 +1,16 @@
+C:\Users\Caroline\source\repos\GetBankRappel\bin\Debug\net5.0\GetBankRappel.exe
+C:\Users\Caroline\source\repos\GetBankRappel\bin\Debug\net5.0\GetBankRappel.deps.json
+C:\Users\Caroline\source\repos\GetBankRappel\bin\Debug\net5.0\GetBankRappel.runtimeconfig.json
+C:\Users\Caroline\source\repos\GetBankRappel\bin\Debug\net5.0\GetBankRappel.runtimeconfig.dev.json
+C:\Users\Caroline\source\repos\GetBankRappel\bin\Debug\net5.0\GetBankRappel.dll
+C:\Users\Caroline\source\repos\GetBankRappel\bin\Debug\net5.0\ref\GetBankRappel.dll
+C:\Users\Caroline\source\repos\GetBankRappel\bin\Debug\net5.0\GetBankRappel.pdb
+C:\Users\Caroline\source\repos\GetBankRappel\obj\Debug\net5.0\GetBankRappel.csproj.AssemblyReference.cache
+C:\Users\Caroline\source\repos\GetBankRappel\obj\Debug\net5.0\GetBankRappel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline\source\repos\GetBankRappel\obj\Debug\net5.0\GetBankRappel.AssemblyInfoInputs.cache
+C:\Users\Caroline\source\repos\GetBankRappel\obj\Debug\net5.0\GetBankRappel.AssemblyInfo.cs
+C:\Users\Caroline\source\repos\GetBankRappel\obj\Debug\net5.0\GetBankRappel.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\source\repos\GetBankRappel\obj\Debug\net5.0\GetBankRappel.dll
+C:\Users\Caroline\source\repos\GetBankRappel\obj\Debug\net5.0\ref\GetBankRappel.dll
+C:\Users\Caroline\source\repos\GetBankRappel\obj\Debug\net5.0\GetBankRappel.pdb
+C:\Users\Caroline\source\repos\GetBankRappel\obj\Debug\net5.0\GetBankRappel.genruntimeconfig.cache

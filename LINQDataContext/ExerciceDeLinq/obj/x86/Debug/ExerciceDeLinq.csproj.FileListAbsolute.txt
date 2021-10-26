@@ -1,0 +1,41 @@
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\bin\Debug\ExerciceDeLinq.exe
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\bin\Debug\ExerciceDeLinq.pdb
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\bin\Debug\LINQDataContext.dll
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\bin\Debug\LINQDataContext.pdb
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.exe
+C:\Users\Briareos\Desktop\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.pdb
+D:\Fences\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.exe
+D:\Fences\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.pdb
+D:\Fences\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\bin\Debug\ExerciceDeLinq.exe
+D:\Fences\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\bin\Debug\ExerciceDeLinq.pdb
+D:\Fences\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\bin\Debug\LINQDataContext.dll
+D:\Fences\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\bin\Debug\LINQDataContext.pdb
+D:\Fences\Cours\Linq\Exercices\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.csprojResolveAssemblyReference.cache
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.exe
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.pdb
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\ExerciceDeLinq.exe
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\ExerciceDeLinq.pdb
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\LINQDataContext.dll
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\LINQDataContext.pdb
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.csprojResolveAssemblyReference.cache
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.exe
+C:\Users\forma300\Desktop\Exercices\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.pdb
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\ExerciceDeLinq.exe
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\ExerciceDeLinq.pdb
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\LINQDataContext.dll
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\LINQDataContext.pdb
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.csproj.AssemblyReference.cache
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.csproj.CoreCompileInputs.cache
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.csproj.CopyComplete
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.exe
+C:\Users\c.cap\OneDrive - Interface3\Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.pdb
+C:\Users\c.cap\OneDrive - Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\ExerciceDeLinq.exe
+C:\Users\c.cap\OneDrive - Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\ExerciceDeLinq.pdb
+C:\Users\c.cap\OneDrive - Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\LINQDataContext.dll
+C:\Users\c.cap\OneDrive - Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\bin\Debug\LINQDataContext.pdb
+C:\Users\c.cap\OneDrive - Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.csproj.AssemblyReference.cache
+C:\Users\c.cap\OneDrive - Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.csproj.CoreCompileInputs.cache
+C:\Users\c.cap\OneDrive - Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.csproj.CopyComplete
+C:\Users\c.cap\OneDrive - Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.exe
+C:\Users\c.cap\OneDrive - Interface3\C#\Exercices_CSharpLinQ\LINQDataContext\LINQDataContext\ExerciceDeLinq\obj\x86\Debug\ExerciceDeLinq.pdb

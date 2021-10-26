@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\bin\Debug\net5.0\DemoBoucles.exe
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\bin\Debug\net5.0\DemoBoucles.deps.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\bin\Debug\net5.0\DemoBoucles.runtimeconfig.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\bin\Debug\net5.0\DemoBoucles.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\bin\Debug\net5.0\DemoBoucles.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\bin\Debug\net5.0\ref\DemoBoucles.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\bin\Debug\net5.0\DemoBoucles.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\obj\Debug\net5.0\DemoBoucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\obj\Debug\net5.0\DemoBoucles.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\obj\Debug\net5.0\DemoBoucles.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\obj\Debug\net5.0\DemoBoucles.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\obj\Debug\net5.0\DemoBoucles.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\obj\Debug\net5.0\ref\DemoBoucles.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\obj\Debug\net5.0\DemoBoucles.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoBoucles\obj\Debug\net5.0\DemoBoucles.genruntimeconfig.cache

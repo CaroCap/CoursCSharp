@@ -1,0 +1,16 @@
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\bin\Debug\net5.0\DemoBase.exe
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\bin\Debug\net5.0\DemoBase.deps.json
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\bin\Debug\net5.0\DemoBase.runtimeconfig.json
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\bin\Debug\net5.0\DemoBase.runtimeconfig.dev.json
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\bin\Debug\net5.0\DemoBase.dll
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\bin\Debug\net5.0\ref\DemoBase.dll
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\bin\Debug\net5.0\DemoBase.pdb
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\obj\Debug\net5.0\DemoBase.csproj.AssemblyReference.cache
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\obj\Debug\net5.0\DemoBase.GeneratedMSBuildEditorConfig.editorconfig
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\obj\Debug\net5.0\DemoBase.AssemblyInfoInputs.cache
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\obj\Debug\net5.0\DemoBase.AssemblyInfo.cs
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\obj\Debug\net5.0\DemoBase.csproj.CoreCompileInputs.cache
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\obj\Debug\net5.0\DemoBase.dll
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\obj\Debug\net5.0\ref\DemoBase.dll
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\obj\Debug\net5.0\DemoBase.pdb
+I:\sources\I3Bxl_Wad21\DemoBase\DemoBase\obj\Debug\net5.0\DemoBase.genruntimeconfig.cache

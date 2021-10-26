@@ -1,0 +1,16 @@
+C:\Users\Caroline\source\repos\CSharpObjet\bin\Debug\net5.0\CSharpObjet.exe
+C:\Users\Caroline\source\repos\CSharpObjet\bin\Debug\net5.0\CSharpObjet.deps.json
+C:\Users\Caroline\source\repos\CSharpObjet\bin\Debug\net5.0\CSharpObjet.runtimeconfig.json
+C:\Users\Caroline\source\repos\CSharpObjet\bin\Debug\net5.0\CSharpObjet.runtimeconfig.dev.json
+C:\Users\Caroline\source\repos\CSharpObjet\bin\Debug\net5.0\CSharpObjet.dll
+C:\Users\Caroline\source\repos\CSharpObjet\bin\Debug\net5.0\ref\CSharpObjet.dll
+C:\Users\Caroline\source\repos\CSharpObjet\bin\Debug\net5.0\CSharpObjet.pdb
+C:\Users\Caroline\source\repos\CSharpObjet\obj\Debug\net5.0\CSharpObjet.csproj.AssemblyReference.cache
+C:\Users\Caroline\source\repos\CSharpObjet\obj\Debug\net5.0\CSharpObjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline\source\repos\CSharpObjet\obj\Debug\net5.0\CSharpObjet.AssemblyInfoInputs.cache
+C:\Users\Caroline\source\repos\CSharpObjet\obj\Debug\net5.0\CSharpObjet.AssemblyInfo.cs
+C:\Users\Caroline\source\repos\CSharpObjet\obj\Debug\net5.0\CSharpObjet.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\source\repos\CSharpObjet\obj\Debug\net5.0\CSharpObjet.dll
+C:\Users\Caroline\source\repos\CSharpObjet\obj\Debug\net5.0\ref\CSharpObjet.dll
+C:\Users\Caroline\source\repos\CSharpObjet\obj\Debug\net5.0\CSharpObjet.pdb
+C:\Users\Caroline\source\repos\CSharpObjet\obj\Debug\net5.0\CSharpObjet.genruntimeconfig.cache

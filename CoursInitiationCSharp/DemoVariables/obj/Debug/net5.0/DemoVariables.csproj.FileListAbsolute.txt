@@ -1,0 +1,5 @@
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.csproj.AssemblyReference.cache
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.AssemblyInfoInputs.cache
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.AssemblyInfo.cs
+C:\Users\Caroline\source\repos\CoursInitiationCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.csproj.CoreCompileInputs.cache

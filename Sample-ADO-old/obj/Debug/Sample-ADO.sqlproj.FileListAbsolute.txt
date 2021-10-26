@@ -1,0 +1,6 @@
+C:\Users\Caroline\source\repos\Sample-ADO\bin\Debug\Sample-ADO.dacpac
+C:\Users\Caroline\source\repos\Sample-ADO\bin\Debug\Sample_ADO.dll
+C:\Users\Caroline\source\repos\Sample-ADO\bin\Debug\Sample_ADO.pdb
+C:\Users\Caroline\source\repos\Sample-ADO\obj\Debug\Sample-ADO.sqlproj.AssemblyReference.cache
+C:\Users\Caroline\source\repos\Sample-ADO\obj\Debug\Sample_ADO.dll
+C:\Users\Caroline\source\repos\Sample-ADO\obj\Debug\Sample_ADO.pdb

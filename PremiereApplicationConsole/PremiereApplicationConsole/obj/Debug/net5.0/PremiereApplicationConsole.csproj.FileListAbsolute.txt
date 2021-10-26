@@ -1,0 +1,16 @@
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\bin\Debug\net5.0\PremiereApplicationConsole.exe
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\bin\Debug\net5.0\PremiereApplicationConsole.deps.json
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\bin\Debug\net5.0\PremiereApplicationConsole.runtimeconfig.json
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\bin\Debug\net5.0\PremiereApplicationConsole.runtimeconfig.dev.json
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\bin\Debug\net5.0\PremiereApplicationConsole.dll
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\bin\Debug\net5.0\ref\PremiereApplicationConsole.dll
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\bin\Debug\net5.0\PremiereApplicationConsole.pdb
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\obj\Debug\net5.0\PremiereApplicationConsole.csproj.AssemblyReference.cache
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\obj\Debug\net5.0\PremiereApplicationConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\obj\Debug\net5.0\PremiereApplicationConsole.AssemblyInfoInputs.cache
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\obj\Debug\net5.0\PremiereApplicationConsole.AssemblyInfo.cs
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\obj\Debug\net5.0\PremiereApplicationConsole.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\obj\Debug\net5.0\PremiereApplicationConsole.dll
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\obj\Debug\net5.0\ref\PremiereApplicationConsole.dll
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\obj\Debug\net5.0\PremiereApplicationConsole.pdb
+C:\Users\Caroline\source\repos\PremiereApplicationConsole\PremiereApplicationConsole\obj\Debug\net5.0\PremiereApplicationConsole.genruntimeconfig.cache

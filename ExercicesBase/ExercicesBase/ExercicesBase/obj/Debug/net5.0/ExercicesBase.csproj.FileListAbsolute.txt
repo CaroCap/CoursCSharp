@@ -1,0 +1,16 @@
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\bin\Debug\net5.0\ExercicesBase.exe
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\bin\Debug\net5.0\ExercicesBase.deps.json
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\bin\Debug\net5.0\ExercicesBase.runtimeconfig.json
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\bin\Debug\net5.0\ExercicesBase.runtimeconfig.dev.json
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\bin\Debug\net5.0\ExercicesBase.dll
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\bin\Debug\net5.0\ref\ExercicesBase.dll
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\bin\Debug\net5.0\ExercicesBase.pdb
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\obj\Debug\net5.0\ExercicesBase.csproj.AssemblyReference.cache
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\obj\Debug\net5.0\ExercicesBase.GeneratedMSBuildEditorConfig.editorconfig
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\obj\Debug\net5.0\ExercicesBase.AssemblyInfoInputs.cache
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\obj\Debug\net5.0\ExercicesBase.AssemblyInfo.cs
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\obj\Debug\net5.0\ExercicesBase.csproj.CoreCompileInputs.cache
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\obj\Debug\net5.0\ExercicesBase.dll
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\obj\Debug\net5.0\ref\ExercicesBase.dll
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\obj\Debug\net5.0\ExercicesBase.pdb
+I:\sources\I3Bxl_Wad21\ExercicesBase\ExercicesBase\obj\Debug\net5.0\ExercicesBase.genruntimeconfig.cache

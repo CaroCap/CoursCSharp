@@ -1,0 +1,13 @@
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\bin\Debug\netcoreapp3.1\DemoSam.exe
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\bin\Debug\netcoreapp3.1\DemoSam.deps.json
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\bin\Debug\netcoreapp3.1\DemoSam.runtimeconfig.json
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\bin\Debug\netcoreapp3.1\DemoSam.runtimeconfig.dev.json
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\bin\Debug\netcoreapp3.1\DemoSam.dll
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\bin\Debug\netcoreapp3.1\DemoSam.pdb
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\obj\Debug\netcoreapp3.1\DemoSam.csproj.AssemblyReference.cache
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\obj\Debug\netcoreapp3.1\DemoSam.AssemblyInfoInputs.cache
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\obj\Debug\netcoreapp3.1\DemoSam.AssemblyInfo.cs
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\obj\Debug\netcoreapp3.1\DemoSam.csproj.CoreCompileInputs.cache
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\obj\Debug\netcoreapp3.1\DemoSam.dll
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\obj\Debug\netcoreapp3.1\DemoSam.pdb
+C:\Users\c.cap\source\repos\DemoSam\DemoSam\obj\Debug\netcoreapp3.1\DemoSam.genruntimeconfig.cache

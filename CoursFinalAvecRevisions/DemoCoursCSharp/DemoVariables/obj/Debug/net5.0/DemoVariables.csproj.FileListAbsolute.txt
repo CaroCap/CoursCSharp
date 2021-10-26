@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\bin\Debug\net5.0\DemoVariables.exe
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\bin\Debug\net5.0\DemoVariables.deps.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\bin\Debug\net5.0\DemoVariables.runtimeconfig.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\bin\Debug\net5.0\DemoVariables.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\bin\Debug\net5.0\DemoVariables.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\bin\Debug\net5.0\ref\DemoVariables.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\bin\Debug\net5.0\DemoVariables.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\obj\Debug\net5.0\ref\DemoVariables.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoVariables\obj\Debug\net5.0\DemoVariables.genruntimeconfig.cache

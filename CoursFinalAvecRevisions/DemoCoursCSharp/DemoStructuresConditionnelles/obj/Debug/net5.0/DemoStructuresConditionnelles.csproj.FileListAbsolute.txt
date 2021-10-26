@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\bin\Debug\net5.0\DemoStructuresConditionnelles.exe
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\bin\Debug\net5.0\DemoStructuresConditionnelles.deps.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\bin\Debug\net5.0\DemoStructuresConditionnelles.runtimeconfig.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\bin\Debug\net5.0\DemoStructuresConditionnelles.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\bin\Debug\net5.0\DemoStructuresConditionnelles.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\bin\Debug\net5.0\ref\DemoStructuresConditionnelles.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\bin\Debug\net5.0\DemoStructuresConditionnelles.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\obj\Debug\net5.0\DemoStructuresConditionnelles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\obj\Debug\net5.0\DemoStructuresConditionnelles.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\obj\Debug\net5.0\DemoStructuresConditionnelles.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\obj\Debug\net5.0\DemoStructuresConditionnelles.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\obj\Debug\net5.0\DemoStructuresConditionnelles.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\obj\Debug\net5.0\ref\DemoStructuresConditionnelles.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\obj\Debug\net5.0\DemoStructuresConditionnelles.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoStructuresConditionnelles\obj\Debug\net5.0\DemoStructuresConditionnelles.genruntimeconfig.cache

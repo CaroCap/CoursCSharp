@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\bin\Debug\net5.0\DemoCollectionsGeneriques.exe
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\bin\Debug\net5.0\DemoCollectionsGeneriques.deps.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\bin\Debug\net5.0\DemoCollectionsGeneriques.runtimeconfig.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\bin\Debug\net5.0\DemoCollectionsGeneriques.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\bin\Debug\net5.0\DemoCollectionsGeneriques.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\bin\Debug\net5.0\ref\DemoCollectionsGeneriques.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\bin\Debug\net5.0\DemoCollectionsGeneriques.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\obj\Debug\net5.0\DemoCollectionsGeneriques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\obj\Debug\net5.0\DemoCollectionsGeneriques.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\obj\Debug\net5.0\DemoCollectionsGeneriques.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\obj\Debug\net5.0\DemoCollectionsGeneriques.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\obj\Debug\net5.0\DemoCollectionsGeneriques.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\obj\Debug\net5.0\ref\DemoCollectionsGeneriques.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\obj\Debug\net5.0\DemoCollectionsGeneriques.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\obj\Debug\net5.0\DemoCollectionsGeneriques.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoCollectionsGeneriques\obj\Debug\net5.0\DemoCollectionsGeneriques.csprojAssemblyReference.cache

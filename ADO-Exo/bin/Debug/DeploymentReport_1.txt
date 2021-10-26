@@ -1,0 +1,32 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       [dbo].[Section]
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Supprimer
+       [dbo].[CK_Student_BirthDate] (Contrainte de validation)
+       [dbo].[CK_Student_YearResult0] (Contrainte de validation)
+       [dbo].[CK_Student_YearResult20] (Contrainte de validation)
+     Reconstruction de la table
+       [dbo].[Section] (Table)
+     Créer
+       [dbo].[CK_Student_BirthDate] (Contrainte de validation)
+       [dbo].[CK_Student_YearResult] (Contrainte de validation)
+       [dbo].[TR_Student_SoftDelete] (Déclencheur)
+       [dbo].[V_student] (Vue)
+       [dbo].[AddSection] (Procédure)
+       [dbo].[AddStudent] (Procédure)
+       [dbo].[DeleteStudent] (Procédure)
+       [dbo].[UpdateStudent] (Procédure)
+
+** Actions de support
+     Supprimer
+       [dbo].[FK_Section] (Clé étrangère)
+     Créer
+       [dbo].[FK_Section] (Clé étrangère)

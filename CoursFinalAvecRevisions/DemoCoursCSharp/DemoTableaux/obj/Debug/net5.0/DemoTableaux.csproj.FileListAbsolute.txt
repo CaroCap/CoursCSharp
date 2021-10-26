@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\bin\Debug\net5.0\DemoTableaux.exe
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\bin\Debug\net5.0\DemoTableaux.deps.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\bin\Debug\net5.0\DemoTableaux.runtimeconfig.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\bin\Debug\net5.0\DemoTableaux.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\bin\Debug\net5.0\DemoTableaux.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\bin\Debug\net5.0\ref\DemoTableaux.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\bin\Debug\net5.0\DemoTableaux.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\obj\Debug\net5.0\DemoTableaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\obj\Debug\net5.0\DemoTableaux.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\obj\Debug\net5.0\DemoTableaux.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\obj\Debug\net5.0\DemoTableaux.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\obj\Debug\net5.0\DemoTableaux.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\obj\Debug\net5.0\ref\DemoTableaux.dll
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\obj\Debug\net5.0\DemoTableaux.pdb
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\obj\Debug\net5.0\DemoTableaux.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DemoCoursCSharp\DemoTableaux\obj\Debug\net5.0\DemoTableaux.csprojAssemblyReference.cache
