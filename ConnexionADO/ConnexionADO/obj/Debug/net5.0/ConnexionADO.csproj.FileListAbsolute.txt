@@ -21,3 +21,5 @@ C:\Users\c.cap\source\repos\ConnexionADO\ConnexionADO\obj\Debug\net5.0\Connexion
 C:\Users\c.cap\source\repos\ConnexionADO\ConnexionADO\obj\Debug\net5.0\ref\ConnexionADO.dll
 C:\Users\c.cap\source\repos\ConnexionADO\ConnexionADO\obj\Debug\net5.0\ConnexionADO.pdb
 C:\Users\c.cap\source\repos\ConnexionADO\ConnexionADO\obj\Debug\net5.0\ConnexionADO.genruntimeconfig.cache
+C:\Users\c.cap\source\repos\ConnexionADO\ConnexionADO\bin\Debug\net5.0\ClassLibrary1.dll
+C:\Users\c.cap\source\repos\ConnexionADO\ConnexionADO\bin\Debug\net5.0\ClassLibrary1.pdb
