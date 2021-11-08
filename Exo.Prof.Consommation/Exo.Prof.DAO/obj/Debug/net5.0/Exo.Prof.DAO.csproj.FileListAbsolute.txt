@@ -1,0 +1,15 @@
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\bin\Debug\net5.0\Exo.Prof.DAO.deps.json
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\bin\Debug\net5.0\Exo.Prof.DAO.dll
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\bin\Debug\net5.0\ref\Exo.Prof.DAO.dll
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\bin\Debug\net5.0\Exo.Prof.DAO.pdb
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\bin\Debug\net5.0\Exo.Prof.DTO.dll
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\bin\Debug\net5.0\Exo.Prof.DTO.pdb
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\obj\Debug\net5.0\Exo.Prof.DAO.csproj.AssemblyReference.cache
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\obj\Debug\net5.0\Exo.Prof.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\obj\Debug\net5.0\Exo.Prof.DAO.AssemblyInfoInputs.cache
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\obj\Debug\net5.0\Exo.Prof.DAO.AssemblyInfo.cs
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\obj\Debug\net5.0\Exo.Prof.DAO.csproj.CoreCompileInputs.cache
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\obj\Debug\net5.0\Exo.Prof.DAO.csproj.CopyComplete
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\obj\Debug\net5.0\Exo.Prof.DAO.dll
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\obj\Debug\net5.0\ref\Exo.Prof.DAO.dll
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DAO\obj\Debug\net5.0\Exo.Prof.DAO.pdb

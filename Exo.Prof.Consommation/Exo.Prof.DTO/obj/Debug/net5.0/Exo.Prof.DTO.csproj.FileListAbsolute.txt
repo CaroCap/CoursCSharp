@@ -1,0 +1,12 @@
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\bin\Debug\net5.0\Exo.Prof.DTO.deps.json
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\bin\Debug\net5.0\Exo.Prof.DTO.dll
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\bin\Debug\net5.0\ref\Exo.Prof.DTO.dll
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\bin\Debug\net5.0\Exo.Prof.DTO.pdb
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\obj\Debug\net5.0\Exo.Prof.DTO.csproj.AssemblyReference.cache
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\obj\Debug\net5.0\Exo.Prof.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\obj\Debug\net5.0\Exo.Prof.DTO.AssemblyInfoInputs.cache
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\obj\Debug\net5.0\Exo.Prof.DTO.AssemblyInfo.cs
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\obj\Debug\net5.0\Exo.Prof.DTO.csproj.CoreCompileInputs.cache
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\obj\Debug\net5.0\Exo.Prof.DTO.dll
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\obj\Debug\net5.0\ref\Exo.Prof.DTO.dll
+C:\Users\c.cap\source\repos\Exo.Prof.Consommation\Exo.Prof.DTO\obj\Debug\net5.0\Exo.Prof.DTO.pdb
