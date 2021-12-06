@@ -1,0 +1,32 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Character] (Table)
+       [dbo].[Fight] (Table)
+       [dbo].[Participation] (Table)
+       [dbo].[Player] (Table)
+       [dbo].[Team] (Table)
+       [dbo].[Tournament] (Table)
+       [dbo].[Type] (Table)
+       [dbo].[DF_Character_status] (Contrainte par défaut)
+       [dbo].[DF_Team_score] (Contrainte par défaut)
+       [dbo].[FK_Character_Player] (Clé étrangère)
+       [dbo].[FK_Character_Type] (Clé étrangère)
+       [dbo].[FK_Fight_Tournament] (Clé étrangère)
+       [dbo].[FK_Looser] (Clé étrangère)
+       [dbo].[FK_Winner] (Clé étrangère)
+       [dbo].[FK_Participation_Team] (Clé étrangère)
+       [dbo].[FK_Participation_Tournament] (Clé étrangère)
+       [dbo].[FK_Player_Team] (Clé étrangère)
+       [dbo].[CK_Tournament] (Contrainte de validation)
+
+** Actions de support

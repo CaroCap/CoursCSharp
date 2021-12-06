@@ -1,0 +1,10 @@
+C:\Users\Mediamonster\source\repos\BD-WOWW\BD-WOWW\bin\Debug\BD-WOWW.dacpac
+C:\Users\Mediamonster\source\repos\BD-WOWW\BD-WOWW\bin\Debug\BD_WOWW.dll
+C:\Users\Mediamonster\source\repos\BD-WOWW\BD-WOWW\bin\Debug\BD_WOWW.pdb
+C:\Users\Mediamonster\source\repos\BD-WOWW\BD-WOWW\obj\Debug\BD-WOWW.sqlproj.AssemblyReference.cache
+C:\Users\Mediamonster\source\repos\BD-WOWW\BD-WOWW\obj\Debug\Model.xml
+C:\Users\Mediamonster\source\repos\BD-WOWW\BD-WOWW\obj\Debug\refactor.xml
+C:\Users\Mediamonster\source\repos\BD-WOWW\BD-WOWW\obj\Debug\postdeploy.sql
+C:\Users\Mediamonster\source\repos\BD-WOWW\BD-WOWW\obj\Debug\predeploy.sql
+C:\Users\Mediamonster\source\repos\BD-WOWW\BD-WOWW\obj\Debug\BD_WOWW.dll
+C:\Users\Mediamonster\source\repos\BD-WOWW\BD-WOWW\obj\Debug\BD_WOWW.pdb

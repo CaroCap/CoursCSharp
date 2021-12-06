@@ -1,0 +1,13 @@
+06-12-21 14:44:44	Ce journal contient des informations sur l'importation du script 'DB_WoWW.sql' dans le projet 'BD-WOWW' sur l'ordinateur 'DESKTOP-M2FMEH9' par l'utilisateur 'Mediamonster.
+06-12-21 14:44:44	Début de l'importation du fichier : C:\Users\Mediamonster\Downloads\DB_WoWW.sql 
+06-12-21 14:44:44	Nom de fichier C:\Users\Mediamonster\Downloads\DB_WoWW.sql (taille : 8076)
+06-12-21 14:44:44	Analyse du script d'importation
+06-12-21 14:44:45	Nombre total de lots dans le script : 27
+06-12-21 14:44:45	Nombre total d'instructions dans le script : 18
+06-12-21 14:44:45	Le script a été correctement importé dans le projet.
+06-12-21 14:44:45	Analyse des objets de schéma...
+06-12-21 14:44:45	Analyse du projet à la recherche des éléments en double
+06-12-21 14:44:45	Fin du traitement des éléments en double
+06-12-21 14:44:46	Dans le script que vous avez fourni à l'opération d'importation, une ou plusieurs instructions n'ont pas été totalement comprises. Elles ont été déplacées vers le fichier ScriptsIgnoredOnImport.sql. Pour plus d'informations, examinez le contenu du fichier.
+06-12-21 14:44:46	Un résumé de l'opération d'importation a été enregistré à l'emplacement suivant : C:\Users\Mediamonster\source\repos\BD-WOWW\BD-WOWW\Importer les journaux de scripts\DB_WoWW_sql_20211206014444.log.
+06-12-21 14:44:46	Cliquez sur Terminer pour continuer...
