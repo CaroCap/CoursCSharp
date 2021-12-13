@@ -1,0 +1,9 @@
+﻿@using ExerciceStudentMVCOK.Models
+@model IEnumerable<StudentListItem>
+
+    <ul>
+        @foreach(StudentListItem item in Model)
+            {
+            <li><a href="/student/details/@item.Id"><div>@item.Nom @item.Prenom @item.Section_id</div></a></li>
+            }
+    </ul>

@@ -1,10 +1,19 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DBSlideDataContext.DTO;
+using DBSlideDataContext.Services;
+using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
 namespace myFirstProject.Controllers
 {
     public class ExercicesController : Controller
     {
+        private readonly IRepository<Student> service;
+
+        public ExercicesController(IRepository<Student> service)
+        {
+            this.service = service;
+        }
+        
         public static string name { get; set; }
             
         public IActionResult Index()

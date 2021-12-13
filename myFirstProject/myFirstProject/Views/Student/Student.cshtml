@@ -1,0 +1,9 @@
+﻿@using myFirstProject
+@model  IEnumerable<Student>
+
+<ul>
+    @foreach (Student student in Model)
+    {
+    <li id="@student.Id">@student.Nom @student.Prenom @student.Section</li>
+    }
+</ul>
