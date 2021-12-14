@@ -1,0 +1,70 @@
+﻿@using Microsoft.AspNetCore.Mvc.ModelBinding
+
+@if (!ViewContext.ModelState.IsValid)
+{
+    <div>
+        <span style="color:red">
+            Le formulaire contient @ViewContext.ModelState.ErrorCount erreur(s)
+        </span><br />
+        @foreach (KeyValuePair<string, ModelStateEntry> kvp in ViewContext.ModelState)
+        {
+            if (kvp.Value.Errors.Count() > 0)
+            {
+                foreach (ModelError modelError in kvp.Value.Errors)
+                {
+                    <span style="color:red">
+                        @kvp.Key : @modelError.ErrorMessage
+                    </span><br />
+                }
+            }
+        }
+    </div>
+}
+<form method="post">
+    <div>
+        <label for="Prenom">
+            Prénom :
+        </label>
+        <input type="text" name="Prenom" />
+    </div>
+    <div>
+        <label for="Nom">
+            Nom :
+        </label>
+        <input type="text" name="Nom" />
+    </div>
+
+    <div>
+        <label for="Birthdate">
+            Date de Naissance :
+        </label>
+        <input type="datetime" name="Birthdate" />
+    </div>
+
+    <div>
+        <label for="Section_id">
+            Section :
+        </label>
+        <input type="number" name="Section_id" />
+    </div>
+    <div>
+        <label for="Course_id">
+            Course ID :
+        </label>
+        <input type="text" name="Course_id" />
+    </div>
+
+    <div>
+        <label for="Identifiant">
+            Identifiant :
+        </label>
+        <input type="text" name="Identifiant" />
+    </div>
+
+
+
+
+    <div>
+        <input type="submit" value="Create new Student" />
+    </div>
+</form>

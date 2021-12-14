@@ -1,9 +1,16 @@
 ﻿@using ExerciceStudentMVCOK.Models
 @model IEnumerable<StudentListItem>
+@using System.Linq;
 
-    <ul>
-        @foreach(StudentListItem item in Model)
-            {
-            <li><a href="/student/details/@item.Id"><div>@item.Nom @item.Prenom @item.Section_id</div></a></li>
-            }
-    </ul>
+
+<div>Dans le groupe, il y a : @Model.Count() élève(s) </div>
+
+@*<a href="/student/addStudent/">Ajouter un étudiant</a> DANS LES 2 CAS BESOIN D'UN IAction DANS StudentController'*@
+@Html.ActionLink("Vers le fomulaire pour ajouter un étudiant", "AddStudent", "Student");
+
+<ul>
+    @foreach (StudentListItem item in Model)
+    {
+        <li><a href="/student/details/@item.Id"><div>@item.Nom @item.Prenom @item.Section_id</div></a></li>
+    }
+</ul>

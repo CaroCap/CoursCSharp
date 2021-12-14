@@ -22,5 +22,17 @@ namespace ExerciceStudentMVCOK.Controllers
             IEnumerable<StudentListItem> students = service.Get().Select(s => s.ToListItem());
             return View(students);
         }
+
+        public IActionResult Details(int id)
+        {
+            StudentDetails student = service.Get(id).ToDetails();
+            if(student is not null) return View(student);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult AddStudent()
+        {
+            return View("AddStudent");
+        }
     }
 }

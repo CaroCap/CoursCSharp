@@ -1,0 +1,26 @@
+﻿@using ExerciceStudentMVCOK
+@model StudentDetails
+
+<h1>@Model.Nom.ToUpper() @Model.Prenom</h1>
+@*dl = Definition List et dt = Definition Title et dd = Definition Data *@
+<div>
+    <strong>Date de naissance : </strong>
+    <span>@Model.DateNaissance.ToString("dd-MM-yyyy")</span>
+</div>
+
+<details>
+    <summary>Informations étudiant</summary>
+    <dl>
+        <dt>Section : </dt>
+        <dd>@Model.Section_id</dd>
+
+        <dt>Cours : </dt>
+        <dd>@Model.Course_id</dd>
+
+        <dt>Identifiant : </dt>
+        <dd>@Model.Identifiant</dd>
+
+        <dt>Résultat Annuel (sur 20) : </dt>
+        <dd>@Model.ResultatAnnuel</dd>
+    </dl>
+</details>
