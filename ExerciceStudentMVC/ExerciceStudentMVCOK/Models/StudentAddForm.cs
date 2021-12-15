@@ -8,18 +8,53 @@ namespace ExerciceStudentMVCOK.Models
 {
     public class StudentAddForm
     {
-        [Required(ErrorMessage = "L'adresse email est obligatoire.")]
-        [EmailAddress(ErrorMessage = "L'adresse n'est au bon format.")]
-        public string Email { get; set; }
-        [Required(ErrorMessage = "Le mot de passe est obligatoire.")]
-        [RegularExpression(@"^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%^&-+=()])(?=\S+$).{8,20}$", ErrorMessage = "Le mot de passe doit au minimum un nombre, une minuscule, une majuscule, un caractère parmis '@#$%^&-+=()', aucun espace blanc, compris entre 8 et 20 caractères.")]
-        public string Passwd { get; set; }
+        //Ces propriétés servent à récupérer les données du formulaire (Nom, Prenom, Section_id, Course_id, DateNaissance, ResultatAnnuel)
+        //Les propriétés IEnumerable serviront à l'affichage des option dans la view (Courses_IDs et Sections_IDs)
+        [Required(ErrorMessage = "Le Nom est obligatoire.")]
+        [MinLength(2, ErrorMessage = "Le Nom doit contenir entre 2 et 16 caractères.")]
+        [MaxLength(16, ErrorMessage = "Le Nom doit contenir entre 2 et 16 caractères.")]
+        public string Nom { get; set; }
+        //par convention on met une majuscule au nom de priorité
+
+        [Required(ErrorMessage = "Le Prenom est obligatoire.")]
+        [MinLength(2, ErrorMessage = "Le Prenom doit contenir entre 2 et 16 caractères.")]
+        [MaxLength(16, ErrorMessage = "Le Prenom doit contenir entre 2 et 16 caractères.")]
+        public string Prenom { get; set; }
+
+        [Required(ErrorMessage = "L'ID de section est obligatoire.")]
+        public int Section_id { get; set; }
+        public IEnumerable<int> Sections_IDs { get; set; }
+        //IEnumerable sert pour l'affichage des options du Select dans la view
+
+        [Required(ErrorMessage = "L'ID du Cours est obligatoire.")]
+        public string Course_id { get; set; }
+        //IEnumerable sert pour l'affichage des options du Select dans la view
+        public IEnumerable<string> Courses_IDs { get; set; }
+
+
+        [Required(ErrorMessage = "La date de naissance est obligatoire.")]
+        public DateTime DateNaissance { get; set; }
+        // Vu qu'on utilise l'age uniquement pour vérifier la majorité pas besoin dans le model et direct dans le controller pour la validation
+        //public int Age{
+        //    get {return DateTime.Now.Year - this.DateNaissance.Year;}
+        //}
+
+        [Required(ErrorMessage = "Le Résultat annuel est obligatoire.")]
+        [Range(0, 20, ErrorMessage = "Le Résultat annuel doit être compris entre 0 et 20.")]
+        public ushort ResultatAnnuel { get; set; }
+        //ResultatAnnuel pourrait être int mais ushort (65535 max) est plus correct même si souvent délaissé
+
+        //Besoin pour le mapper
+        public string Identifiant { get
+            { 
+                if (string.IsNullOrWhiteSpace(this.Nom) || string.IsNullOrWhiteSpace(this.Prenom)) throw new FormatException();
+                return this.Prenom[0] + this.Nom.Substring(0, 3).Replace(" ", ".");
+            }
+        }
     }
 }
 
                 //Id = student.Student_ID,
-                //Nom = student.Last_Name,
-                //Prenom = student.First_Name,
                 //Section_id = student.Section_ID,
                 //DateNaissance = student.BirthDate,
                 //Identifiant = student.Login,

@@ -4,6 +4,9 @@
 
 
 <div>Dans le groupe, il y a : @Model.Count() élève(s) </div>
+@*Possible de faire avec ViwData et viewBag depuis le controller mais pas utile dans ce cas-ci*@
+@*<p><strong>Par ViewData, il y a dans le groupe : </strong> @ViewData["number"]</p>*@
+
 
 @*<a href="/student/addStudent/">Ajouter un étudiant</a> DANS LES 2 CAS BESOIN D'UN IAction DANS StudentController'*@
 @Html.ActionLink("Vers le fomulaire pour ajouter un étudiant", "AddStudent", "Student");

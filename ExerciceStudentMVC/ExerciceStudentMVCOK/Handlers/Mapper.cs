@@ -36,5 +36,20 @@ namespace ExerciceStudentMVCOK.Handlers
                 Course_id = student.Course_ID
             };
         }
+
+        public static Student ToDTO(this StudentAddForm form) 
+        {
+            if (form is null) return null;
+            return new Student
+            {
+                First_Name = form.Prenom,
+                Last_Name = form.Nom,
+                BirthDate = form.DateNaissance,
+                Section_ID = form.Section_id,
+                Course_ID = form.Course_id,
+                Year_Result = form.ResultatAnnuel,
+                Login = form.Identifiant
+            };
+        }
     }
 }
