@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Demo.Cinema.DataBase", "Demo.Cinema.DataBase\Demo.Cinema.DataBase.sqlproj", "{A88BFBBA-8175-46C0-A913-BF13E7B03CAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{83AAD662-10D7-4944-A836-13FCCA32504B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Cinema.DAL", "Demo.Cinema.DAL\Demo.Cinema.DAL.csproj", "{4D337D1A-6605-442A-8673-6BB7375B4B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88BFBBA-8175-46C0-A913-BF13E7B03CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88BFBBA-8175-46C0-A913-BF13E7B03CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88BFBBA-8175-46C0-A913-BF13E7B03CAE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A88BFBBA-8175-46C0-A913-BF13E7B03CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88BFBBA-8175-46C0-A913-BF13E7B03CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88BFBBA-8175-46C0-A913-BF13E7B03CAE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4D337D1A-6605-442A-8673-6BB7375B4B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D337D1A-6605-442A-8673-6BB7375B4B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D337D1A-6605-442A-8673-6BB7375B4B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D337D1A-6605-442A-8673-6BB7375B4B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D337D1A-6605-442A-8673-6BB7375B4B8D} = {83AAD662-10D7-4944-A836-13FCCA32504B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10DE6723-8A42-4FAB-90BC-BB3B64CA0E83}
+	EndGlobalSection
+EndGlobal

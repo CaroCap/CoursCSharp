@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Cinema] (Table)
+       [dbo].[Diffusion] (Table)
+       [dbo].[Film] (Table)
+       [dbo].[FK_Diffusion_Cinema] (Foreign Key)
+       [dbo].[FK_Diffusion_Film] (Foreign Key)
+       [dbo].[SP_Film_Insert] (Procedure)
+
+** Supporting actions

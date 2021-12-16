@@ -1,0 +1,6 @@
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.Cinema.DataBase\bin\Debug\Demo.Cinema.DataBase.dacpac
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.Cinema.DataBase\bin\Debug\Demo.Cinema.DataBase.dll
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.Cinema.DataBase\bin\Debug\Demo.Cinema.DataBase.pdb
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.Cinema.DataBase\obj\Debug\Demo.Cinema.DataBase.sqlproj.AssemblyReference.cache
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.Cinema.DataBase\obj\Debug\Demo.Cinema.DataBase.dll
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.Cinema.DataBase\obj\Debug\Demo.Cinema.DataBase.pdb
