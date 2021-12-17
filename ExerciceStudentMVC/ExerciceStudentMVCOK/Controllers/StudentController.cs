@@ -46,6 +46,7 @@ namespace ExerciceStudentMVCOK.Controllers
             // Section_ID vient du DTO
             model.Sections_IDs = service.Get().Select(s=>s.Section_ID).Distinct().OrderBy(s=>s);
             model.Courses_IDs = service.Get().Select(s=>s.Course_ID).Distinct().OrderBy(c => c);
+            model.DateNaissance = DateTime.Now;
             return View(model);
         }
 

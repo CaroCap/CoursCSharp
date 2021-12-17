@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
@@ -13,26 +14,35 @@ namespace ExerciceStudentMVCOK.Models
         [Required(ErrorMessage = "Le Nom est obligatoire.")]
         [MinLength(2, ErrorMessage = "Le Nom doit contenir entre 2 et 16 caractères.")]
         [MaxLength(16, ErrorMessage = "Le Nom doit contenir entre 2 et 16 caractères.")]
+        [DisplayName("Nom : ")]
+        [DataType(DataType.Text)]
         public string Nom { get; set; }
         //par convention on met une majuscule au nom de priorité
 
         [Required(ErrorMessage = "Le Prenom est obligatoire.")]
         [MinLength(2, ErrorMessage = "Le Prenom doit contenir entre 2 et 16 caractères.")]
         [MaxLength(16, ErrorMessage = "Le Prenom doit contenir entre 2 et 16 caractères.")]
+        [DisplayName("Prénom : ")]
+        [DataType(DataType.Text)]
         public string Prenom { get; set; }
 
         [Required(ErrorMessage = "L'ID de section est obligatoire.")]
         public int Section_id { get; set; }
+        [DisplayName("Section ID : ")]
         public IEnumerable<int> Sections_IDs { get; set; }
         //IEnumerable sert pour l'affichage des options du Select dans la view
 
         [Required(ErrorMessage = "L'ID du Cours est obligatoire.")]
         public string Course_id { get; set; }
+        [DisplayName("Course ID : ")]
         //IEnumerable sert pour l'affichage des options du Select dans la view
         public IEnumerable<string> Courses_IDs { get; set; }
 
 
         [Required(ErrorMessage = "La date de naissance est obligatoire.")]
+        [DisplayName("Date de Naissance : ")]
+        [DataType(DataType.Date)]
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/MM/yyyy}")]
         public DateTime DateNaissance { get; set; }
         // Vu qu'on utilise l'age uniquement pour vérifier la majorité pas besoin dans le model et direct dans le controller pour la validation
         //public int Age{
@@ -41,8 +51,11 @@ namespace ExerciceStudentMVCOK.Models
 
         [Required(ErrorMessage = "Le Résultat annuel est obligatoire.")]
         [Range(0, 20, ErrorMessage = "Le Résultat annuel doit être compris entre 0 et 20.")]
+        [DisplayName("Résultat Annuel : ")]
+        //[DataType(DataType.)]
         public ushort ResultatAnnuel { get; set; }
         //ResultatAnnuel pourrait être int mais ushort (65535 max) est plus correct même si souvent délaissé
+
 
         //Besoin pour le mapper
         public string Identifiant { get

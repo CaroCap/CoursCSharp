@@ -14,6 +14,7 @@
 <ul>
     @foreach (StudentListItem item in Model)
     {
-        <li><a href="/student/details/@item.Id"><div>@item.Nom @item.Prenom @item.Section_id</div></a></li>
+        //<li>@*<a href="/student/details/@item.Id"><div>@item.Nom @item.Prenom @item.Section_id</div></a>*@</li>
+        <li>@Html.ActionLink(@item.Nom + " " + @item.Prenom + " " + @item.Section_id.ToString(), "Details", "Student", new { id = item.Id } )</li>
     }
 </ul>

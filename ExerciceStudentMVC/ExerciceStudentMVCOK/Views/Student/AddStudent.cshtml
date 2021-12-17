@@ -1,25 +1,6 @@
 ﻿@using Microsoft.AspNetCore.Mvc.ModelBinding
 @using ExerciceStudentMVCOK.Models
 @model StudentAddForm
-
-
-@*//Création d''une fonction qui va indiquer l'erreur*@
-@{ 
-    void CheckError(string tagName)
-    {
-        ModelStateEntry modelStateEntry;
-        if (!ViewContext.ModelState.IsValid && ViewContext.ModelState.TryGetValue(tagName, out modelStateEntry))
-        {
-        <span style="color:red">
-            @foreach (var error in modelStateEntry.Errors)
-            {
-                @error.ErrorMessage<br />
-            }
-        </span>
-        }
-    }
- }
-
 @*Vérifier avec le IF que le modèle n'est pas null*@
 @if (Model is not null)
 {
@@ -28,84 +9,51 @@
     @if (!ViewContext.ModelState.IsValid)
     {
         <div>
-            <span style="color:red">
-                Le formulaire contient @ViewContext.ModelState.ErrorCount erreur(s)
-            </span><br />
-            @foreach (KeyValuePair<string, ModelStateEntry> kvp in ViewContext.ModelState)
-            {
-                if (kvp.Value.Errors.Count() > 0)
-                {
-                    foreach (ModelError modelError in kvp.Value.Errors)
-                    {
-                        <span style="color:red">
-                            @kvp.Key : @modelError.ErrorMessage
-                        </span><br />
-                    }
-                }
-            }
+            @Html.ValidationSummary(true, "Le formulaire contient " + ViewContext.ModelState.ErrorCount + " erreur(s)", new { @class = "text-danger", style = "border: 1px dashed red" })
         </div>
     }
 
 
-
-
     @*! dans le Form, il faut que le name de l'input soit le même que dans le Model*@
     @*les attributs required, minlength, maxlength, ... dans le html ne sont pas sécurisés mais peuvent aider l'utilisateur à l'encodage et faire une première barrière*@
-    <form method="post">
-        <div>
-            <label for="Nom">
-                Nom :
-            </label>
-            <input type="text" name="Nom" minlength="2" maxlength="16" id="Nom" required />
-            @{ CheckError("Nom");}
-        </div>
-        <div>
-            <label for="Prenom">
-                Prénom :
-            </label>
-            <input type="text" name="Prenom" minlength="2" maxlength="16" id="Prenom" required />
-            @{ CheckError("Prenom");}
-        </div>
+    @using (Html.BeginForm(@*actionName: "AddStudent", controllerName: "Student", method: FormMethod.Post*@))
+{
+<div>
+    @Html.LabelFor(m => m.Nom)
+    @Html.EditorFor(m => m.Nom, new { htmlAttributes = new { minLength = 2, maxLength = 16, required = true } })
+    @Html.ValidationMessageFor(m => m.Nom, null, new { @class = "text-danger" })
+</div>
+<div>
+    @Html.LabelFor(m => m.Prenom)
+    @Html.EditorFor(m => m.Prenom, new { htmlAttributes = new { minLength = 2, maxLength = 16, required = true } })
+    @Html.ValidationMessageFor(m => m.Prenom, null, new { @class = "text-danger" })
+</div>
 
 
-        <div>
-            <label for="DateNaissance">
-                Date de Naissance :
-            </label>
-            <input type="date" name="DateNaissance" id="DateNaissance" required />
-            @{ CheckError("DateNaissance");}
+<div>
+    @Html.LabelFor(m => m.DateNaissance)
+    @Html.EditorFor(m => m.DateNaissance, new { htmlAttributes = new { required = true } })
+    @Html.ValidationMessageFor(m => m.DateNaissance, null, new { @class = "text-danger" })
+</div>
 
-        </div>
-
-        <label for="Section_id">ID Section</label>
-        <select name="Section_id" id="Section_id" required>
-            @foreach (int s_id in Model.Sections_IDs)
-            {
-                <option>@s_id</option>
-            }
-        </select>
-        <label for="Course_id">ID Course</label>
-        <select name="Course_id" id="Course_id" required>
-            @foreach (string c_id in Model.Courses_IDs)
-            {
-                <option>@c_id</option>
-            }
-        </select>
-
-        <div>
-            <label for="ResultatAnnuel">
-                Résultat Annuel :
-            </label>
-            <input type="number" min="0" max="20" name="ResultatAnnuel" required />
-            @{ CheckError("ResultatAnnuel");}
-
-        </div>
+@Html.DropDownListFor(m => m.Section_id, Model.Sections_IDs.Select(o => new SelectListItem { Value = o.ToString(), Text = o.ToString() }), "Sélectionnez une section")
+@Html.ValidationMessageFor(m => m.Section_id, null, new { @class = "text-danger" })
 
 
-        <div>
-            <input type="submit" value="Create new Student" />
-        </div>
-    </form>
+@Html.DropDownListFor(m => m.Course_id, Model.Courses_IDs.Select(o => new SelectListItem { Value = o.ToString(), Text = o.ToString() }), "Sélectionnez un Cours")
+@Html.ValidationMessageFor(m => m.Course_id, null, new { @class = "text-danger" })
+
+
+<div>
+    @Html.LabelFor(m => m.ResultatAnnuel)
+    @Html.EditorFor(m => m.ResultatAnnuel, new { htmlAttributes = new { min = 0, max=20, required = true } })
+    @Html.ValidationMessageFor(m => m.ResultatAnnuel, null, new { @class = "text-danger" })
+</div>
+
+<div>
+    <input type="submit" value="Create new Student" />
+</div>
+}
 }
 else
 {

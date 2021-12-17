@@ -85,3 +85,4 @@ C:\Users\c.cap\source\repos\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\ne
 C:\Users\c.cap\source\repos\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ExerciceStudentMVCOK.genruntimeconfig.cache
 C:\Users\c.cap\source\repos\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
 C:\Users\c.cap\source\repos\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\Razor\Views\Student\AddStudent.cshtml.g.cs
+C:\Users\c.cap\source\repos\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\Razor\Views\Student\AddStudentOLD.cshtml.g.cs
