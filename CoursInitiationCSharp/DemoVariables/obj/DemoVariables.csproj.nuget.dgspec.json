@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caroline\\source\\repos\\CoursInitiationCSharp\\DemoVariables\\DemoVariables.csproj": {}
+    "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\CoursInitiationCSharp\\DemoVariables\\DemoVariables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caroline\\source\\repos\\CoursInitiationCSharp\\DemoVariables\\DemoVariables.csproj": {
+    "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\CoursInitiationCSharp\\DemoVariables\\DemoVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caroline\\source\\repos\\CoursInitiationCSharp\\DemoVariables\\DemoVariables.csproj",
+        "projectUniqueName": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\CoursInitiationCSharp\\DemoVariables\\DemoVariables.csproj",
         "projectName": "DemoVariables",
-        "projectPath": "C:\\Users\\Caroline\\source\\repos\\CoursInitiationCSharp\\DemoVariables\\DemoVariables.csproj",
-        "packagesPath": "C:\\Users\\Caroline\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caroline\\source\\repos\\CoursInitiationCSharp\\DemoVariables\\obj\\",
+        "projectPath": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\CoursInitiationCSharp\\DemoVariables\\DemoVariables.csproj",
+        "packagesPath": "C:\\Users\\Mediamonster\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\CoursInitiationCSharp\\DemoVariables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Caroline\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mediamonster\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,12 +53,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

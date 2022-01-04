@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e749b981-efe9-4d61-b0ae-4955be2d0d88": {
+      "ProjectGuid": "e749b981-efe9-4d61-b0ae-4955be2d0d88",
+      "DisplayName": "DemoTypeDonneesPredefinis",
+      "ColorIndex": 0
+    },
+    "ea6fbed0-61e4-46ed-9cf3-79d8500428ce": {
+      "ProjectGuid": "ea6fbed0-61e4-46ed-9cf3-79d8500428ce",
+      "DisplayName": "DemoVariables",
+      "ColorIndex": 1
+    },
+    "c8557c81-468e-4897-867b-7d846df8cb9f": {
+      "ProjectGuid": "c8557c81-468e-4897-867b-7d846df8cb9f",
+      "DisplayName": "Exercices",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

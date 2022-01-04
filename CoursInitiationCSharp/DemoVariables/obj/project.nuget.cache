@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8cfV+zbDbUHHQROBqxNKiseRi+rGjJZQi1yJvUhU4VuPbgxcewC3qYSjcCaiYWCILkZLVcMMwcf1l5sRCn+AhQ==",
+  "dgSpecHash": "DwSegLFisbBtPhAVwQN9DAPgO6OxY8TX/5jXG+JhnCSa5I/wrRyUsFPPgsvmoGG0WSL+I1I2p2al7n2vNlK/hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Caroline\\source\\repos\\CoursInitiationCSharp\\DemoVariables\\DemoVariables.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\CoursInitiationCSharp\\DemoVariables\\DemoVariables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mediamonster\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

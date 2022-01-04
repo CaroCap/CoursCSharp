@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tkwlJKkZSZ/7LWDM5IH/EVrnLgpbZqLClhsYaL7EkJE1+6agPxdWsbjddh7prrhFni6R75UQjlQThaS1NXi2jw==",
+  "dgSpecHash": "g5m/s57iduShzyiA3chwWKVsjUwpO49iAG3vO0TzIW/gWvjWZlAtdQ6qUuymdERgA0YNbyPQK8GQgzTNI9hHuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Caroline\\source\\repos\\CoursInitiationCSharp\\Exercices\\Exercices.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\CoursInitiationCSharp\\Exercices\\Exercices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mediamonster\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
