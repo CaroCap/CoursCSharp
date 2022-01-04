@@ -86,3 +86,14 @@ C:\Users\c.cap\source\repos\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\ne
 C:\Users\c.cap\source\repos\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
 C:\Users\c.cap\source\repos\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\Razor\Views\Student\AddStudent.cshtml.g.cs
 C:\Users\c.cap\source\repos\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\Razor\Views\Student\AddStudentOLD.cshtml.g.cs
+C:\Users\Mediamonster\source\repos\CoursCSharp\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ExerciceStudentMVCOK.csproj.AssemblyReference.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ExerciceStudentMVCOK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mediamonster\source\repos\CoursCSharp\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ExerciceStudentMVCOK.AssemblyInfoInputs.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ExerciceStudentMVCOK.AssemblyInfo.cs
+C:\Users\Mediamonster\source\repos\CoursCSharp\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ExerciceStudentMVCOK.csproj.CoreCompileInputs.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ExerciceStudentMVCOK.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ExerciceStudentMVCOK.RazorAssemblyInfo.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ExerciceStudentMVCOK.RazorAssemblyInfo.cs
+C:\Users\Mediamonster\source\repos\CoursCSharp\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ExerciceStudentMVCOK.dll
+C:\Users\Mediamonster\source\repos\CoursCSharp\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ref\ExerciceStudentMVCOK.dll
+C:\Users\Mediamonster\source\repos\CoursCSharp\ExerciceStudentMVC\ExerciceStudentMVCOK\obj\Debug\net5.0\ExerciceStudentMVCOK.pdb

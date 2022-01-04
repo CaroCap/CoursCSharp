@@ -79,3 +79,14 @@ C:\Users\c.cap\source\repos\myFirstProject\myFirstProject\bin\Debug\net5.0\DBSli
 C:\Users\c.cap\source\repos\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.Views.pdb
 C:\Users\c.cap\source\repos\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.csproj.CopyComplete
 C:\Users\c.cap\source\repos\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.genruntimeconfig.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.csproj.AssemblyReference.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mediamonster\source\repos\CoursCSharp\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.AssemblyInfoInputs.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.AssemblyInfo.cs
+C:\Users\Mediamonster\source\repos\CoursCSharp\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.RazorAssemblyInfo.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.RazorAssemblyInfo.cs
+C:\Users\Mediamonster\source\repos\CoursCSharp\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.dll
+C:\Users\Mediamonster\source\repos\CoursCSharp\myFirstProject\myFirstProject\obj\Debug\net5.0\ref\myFirstProject.dll
+C:\Users\Mediamonster\source\repos\CoursCSharp\myFirstProject\myFirstProject\obj\Debug\net5.0\myFirstProject.pdb

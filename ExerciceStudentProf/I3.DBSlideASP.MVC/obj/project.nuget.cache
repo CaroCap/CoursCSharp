@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9pgWZYKxXGZw1T2ycLwEr3a3I8BJEaFe2qmhvdzXh+X2DKxPnk+hXjtagMemDpkKxt6z51DdG0prrhtcpU4Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\ExerciceStudentProf\\I3.DBSlideASP.MVC\\I3.DBSlideASP.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mediamonster\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

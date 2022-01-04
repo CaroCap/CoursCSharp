@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\c.cap\\source\\repos\\ExerciceStudentMVC\\ExerciceStudentMVCOK\\ExerciceStudentMVCOK.csproj": {}
+    "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\ExerciceStudentMVC\\ExerciceStudentMVCOK\\ExerciceStudentMVCOK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\c.cap\\source\\repos\\ExerciceStudentMVC\\ExerciceStudentMVCOK\\ExerciceStudentMVCOK.csproj": {
+    "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\ExerciceStudentMVC\\ExerciceStudentMVCOK\\ExerciceStudentMVCOK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\c.cap\\source\\repos\\ExerciceStudentMVC\\ExerciceStudentMVCOK\\ExerciceStudentMVCOK.csproj",
+        "projectUniqueName": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\ExerciceStudentMVC\\ExerciceStudentMVCOK\\ExerciceStudentMVCOK.csproj",
         "projectName": "ExerciceStudentMVCOK",
-        "projectPath": "C:\\Users\\c.cap\\source\\repos\\ExerciceStudentMVC\\ExerciceStudentMVCOK\\ExerciceStudentMVCOK.csproj",
-        "packagesPath": "C:\\Users\\c.cap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\c.cap\\source\\repos\\ExerciceStudentMVC\\ExerciceStudentMVCOK\\obj\\",
+        "projectPath": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\ExerciceStudentMVC\\ExerciceStudentMVCOK\\ExerciceStudentMVCOK.csproj",
+        "packagesPath": "C:\\Users\\Mediamonster\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\ExerciceStudentMVC\\ExerciceStudentMVCOK\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\c.cap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mediamonster\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +43,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -49,6 +59,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -57,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
