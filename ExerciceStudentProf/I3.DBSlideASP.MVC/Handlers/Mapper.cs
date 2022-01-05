@@ -9,6 +9,56 @@ namespace I3.DBSlideASP.MVC.Handlers
 {
     public static class Mapper
     {
+        public static ProfessorListItem ToListItem(this Professor prof)
+        {
+            if (prof is null) return null;
+            return new ProfessorListItem
+            {
+                Professor_ID = prof.Professor_ID,
+                Professor_Name = prof.Professor_Name,
+                Professor_Surname = prof.Professor_Surname,
+                Section_ID = prof.Section_ID,
+                //Professor_Office = prof.Professor_Office,
+                //Professor_Wage = prof.Professor_Wage
+            };
+        }
+        public static ProfessorDetails ToDetails(this Professor prof)
+        {
+            if (prof is null) return null;
+            return new ProfessorDetails
+            {
+                Professor_ID = prof.Professor_ID,
+                Professor_Name = prof.Professor_Name,
+                Professor_Surname = prof.Professor_Surname,
+                Section_ID = prof.Section_ID,
+                Professor_Office = prof.Professor_Office,
+                Professor_Email = prof.Professor_Email,
+                Professor_HireDate = prof.Professor_HireDate,
+                Professor_Wage = prof.Professor_Wage
+            };
+        }
+        public static ProfessorEditForm ToEditForm(this Professor prof)
+        {
+            if (prof is null) return null;
+            return new ProfessorEditForm
+            {
+                //Professor_Name = prof.Professor_Name,
+                //Professor_Surname = prof.Professor_Surname,
+                Professor_Office = prof.Professor_Office,
+                Professor_Wage = prof.Professor_Wage
+            };
+        }
+        public static ProfessorDeleteForm ToDeleteForm(this Professor prof)
+        {
+            if (prof is null) return null;
+            return new ProfessorDeleteForm
+            {
+                Professor_Surname = prof.Professor_Surname,
+                Professor_Name = prof.Professor_Name,
+                Validate = false
+            };
+        }
+
         public static StudentListItem ToListItem(this Student student)
         {
             if (student is null) return null;
