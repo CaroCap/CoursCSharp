@@ -8,10 +8,74 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.Cinema.DAL.csproj",
-        "projectName": "Demo.Cinema.DAL",
+        "projectName": "Demo.CinemaProject.DAL",
         "projectPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.Cinema.DAL.csproj",
         "packagesPath": "C:\\Users\\c.cap\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\c.cap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.CinemaProject.Common\\Demo.CinemaProject.Common.csproj": {
+                "projectPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.CinemaProject.Common\\Demo.CinemaProject.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.CinemaProject.Common\\Demo.CinemaProject.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.CinemaProject.Common\\Demo.CinemaProject.Common.csproj",
+        "projectName": "Demo.CinemaProject.Common",
+        "projectPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.CinemaProject.Common\\Demo.CinemaProject.Common.csproj",
+        "packagesPath": "C:\\Users\\c.cap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.CinemaProject.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\c.cap\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +103,6 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
-          "dependencies": {
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

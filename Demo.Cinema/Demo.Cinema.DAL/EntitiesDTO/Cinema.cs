@@ -3,7 +3,7 @@
 //using System.Collections.Generic;
 //using System.Text;
 
-namespace Demo.Cinema.DAL.EntitiesDTO
+namespace Demo.CinemaProject.DAL.EntitiesDTO
 {
     //ne pas oublier de rendre la classe public
     public class Cinema

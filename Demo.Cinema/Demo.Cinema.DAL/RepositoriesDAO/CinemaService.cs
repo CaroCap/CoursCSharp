@@ -1,20 +1,22 @@
-﻿using Demo.Cinema.DAL.Handlers;
+﻿using Demo.CinemaProject.Common.Repositories;
+using Demo.CinemaProject.DAL.EntitiesDTO;
+using Demo.CinemaProject.DAL.Handlers;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Text;
-using DALCinema = Demo.Cinema.DAL.EntitiesDTO;
+using DALCinema = Demo.CinemaProject.DAL.EntitiesDTO;
 
-namespace Demo.Cinema.DAL.RepositoriesDAO
+namespace Demo.CinemaProject.DAL.RepositoriesDAO
 {
     // Une classe : une autre class => Héritage
     // Une class : Repository => Implémentation
-    public class CinemaService : IRepository<DALCinema.Cinema, int>
-    // Clic sur l'amoule de DALCinema.Cinema pour Implémenter Interface
+    public class CinemaService : ServiceBase, ICinemaRepository<DALCinema.Cinema>
+    // Clic sur l'ampoule de DALCinema.Cinema pour Implémenter Interface
     {
         // 1e etape ADO => ConnectionString
-        //Serveur Explorer , clic sur DB créée ensemble , ALT + ENTER, copier coller la connection string
-        private string _connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Demo.Cinema.DataBase;Integrated Security=True";
+        // Server Explorer (onglet latéral gauche), clic sur DB créée ensemble , ALT + ENTER, copier coller la connection string
+        //private string _connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Demo.Cinema.DataBase;Integrated Security=True";
         // Ouvrir Connection
 
         public void Delete(int id)
@@ -58,7 +60,7 @@ namespace Demo.Cinema.DAL.RepositoriesDAO
                     SqlDataReader reader = command.ExecuteReader();
                     // Yield Return permet de retourner la ligne jusqu'à ce qu'il n'y ait plus rien a lire.
                     // Un return normal casse la fonction qui ne retourne du coup qu'un seul événement
-                    while (reader.Read()) yield return Mapper.convert(reader);
+                    while (reader.Read()) yield return Mapper.ToCinema(reader);
                 }
             }
         }
@@ -71,18 +73,69 @@ namespace Demo.Cinema.DAL.RepositoriesDAO
                 {
                     // préféré décrire les noms de colonnes plutôt que d'utiliser * par faciliter pour gagné en efficacité pour l'application
                     // * va aller chercher toutes les colonnes à chaque ligne alors qu'on sait que le nom de la colonne n'a pas changé...
-                    command.CommandText = "SELECT [Id], [Nom], [Ville] FROM [Cinema] WHERE [id] = @id";
+                    command.CommandText = "SELECT [Id],[Nom],[Ville] FROM [Cinema] WHERE [Id] = @id";
                     SqlParameter p_id = new SqlParameter() { ParameterName = "id", Value = id };
                     command.Parameters.Add(p_id);
                     connection.Open();
                     SqlDataReader reader = command.ExecuteReader();
-                    while (reader.Read()) return Mapper.convert(reader);
+                    if (reader.Read()) return Mapper.ToCinema(reader);
                     return null;
                 }
             }
         }
 
+        public IEnumerable<DALCinema.Cinema> GetByDiffusion(int id_movie, DateTime DateDiffusion)
+        {
+            using (SqlConnection connection = new SqlConnection(_connString))
+            {
+                using (SqlCommand command = connection.CreateCommand())
+                {
+                    command.CommandText = "SELECT [Cinema].[Id],[Nom],[Ville] FROM [Cinema] JOIN [Diffusion] ON [Cinema].[Id] = [Diffusion].[Cinema_Id] WHERE [Diffusion].[Film_Id] = @id_movie AND [Diffusion].[DateDiffusion] = @date";
+                    SqlParameter p_id_movie = new SqlParameter() { ParameterName = "id_movie", Value = id_movie };
+                    command.Parameters.Add(p_id_movie);
+                    SqlParameter p_date = new SqlParameter() { ParameterName = "date", Value = DateDiffusion };
+                    command.Parameters.Add(p_date);
+                    connection.Open();
+                    SqlDataReader reader = command.ExecuteReader();
+                    while (reader.Read()) yield return Mapper.ToCinema(reader);
+                }
+            }
+        }
 
+        public Cinema GetByDiffusionId(int diffusionId)
+        {
+            using (SqlConnection connection = new SqlConnection(_connString))
+            {
+                using (SqlCommand command = connection.CreateCommand())
+                {
+                    // préféré décrire les noms de colonnes plutôt que d'utiliser * par faciliter pour gagné en efficacité pour l'application
+                    // * va aller chercher toutes les colonnes à chaque ligne alors qu'on sait que le nom de la colonne n'a pas changé...
+                    command.CommandText = "SELECT [Cinema].[Id], [Nom], [Ville] FROM [Cinema] JOIN [Diffusion] ON [Cinema].[Id] WHERE [Diffusion].[id] = @id";
+                    SqlParameter p_id = new SqlParameter() { ParameterName = "id", Value = diffusionId };
+                    command.Parameters.Add(p_id);
+                    connection.Open();
+                    SqlDataReader reader = command.ExecuteReader();
+                    if (reader.Read()) return Mapper.ToCinema(reader);
+                    return null;
+                }
+            }
+        }
+
+        public IEnumerable<DALCinema.Cinema> GetByFilm(int id_movie)
+        {
+            using (SqlConnection connection = new SqlConnection(_connString))
+            {
+                using (SqlCommand command = connection.CreateCommand())
+                {
+                    command.CommandText = "SELECT [Cinema].[Id],[Nom],[Ville] FROM [Cinema] JOIN [Diffusion] ON [Cinema].[Id] = [Diffusion].[Cinema_Id] WHERE [Diffusion].[Film_Id] = @id_movie";
+                    SqlParameter p_id_movie = new SqlParameter() { ParameterName = "id_movie", Value = id_movie };
+                    command.Parameters.Add(p_id_movie);
+                    connection.Open();
+                    SqlDataReader reader = command.ExecuteReader();
+                    while (reader.Read()) yield return Mapper.ToCinema(reader);
+                }
+            }
+        }
 
         public int Insert(DALCinema.Cinema entity)
         {

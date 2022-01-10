@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mKcRYMV5GBoqBbjp7LDiSSMXYwORrgxXeliUOdosbSNV+aqfomixfoLefONgBKWe+FbTxx3HJtIXCxiP3OArTw==",
+  "dgSpecHash": "/rkELnxYmJXY3BFpAccFJAV6V2bbOA+IRJce/OQtUx3Q7UbT1kwYm26IWBREeCGEAPZ8j6bjDfPQjUOe5PsSZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.Cinema.DAL.csproj",
+  "projectFilePath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.CinemaProject.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c.cap\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\c.cap\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

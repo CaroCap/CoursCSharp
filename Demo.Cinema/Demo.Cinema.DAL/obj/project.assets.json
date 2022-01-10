@@ -193,6 +193,16 @@
             "rid": "win"
           }
         }
+      },
+      "Demo.CinemaProject.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Demo.CinemaProject.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demo.CinemaProject.Common.dll": {}
+        }
       }
     }
   },
@@ -679,10 +689,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Demo.CinemaProject.Common/1.0.0": {
+      "type": "project",
+      "path": "../Demo.CinemaProject.Common/Demo.CinemaProject.Common.csproj",
+      "msbuildProject": "../Demo.CinemaProject.Common/Demo.CinemaProject.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
+      "Demo.CinemaProject.Common >= 1.0.0",
       "System.Data.SqlClient >= 4.8.3"
     ]
   },
@@ -692,9 +708,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.Cinema.DAL.csproj",
-      "projectName": "Demo.Cinema.DAL",
-      "projectPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.Cinema.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.CinemaProject.DAL.csproj",
+      "projectName": "Demo.CinemaProject.DAL",
+      "projectPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.CinemaProject.DAL.csproj",
       "packagesPath": "C:\\Users\\c.cap\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\obj\\",
       "projectStyle": "PackageReference",
@@ -712,7 +728,11 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.CinemaProject.Common\\Demo.CinemaProject.Common.csproj": {
+              "projectPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.CinemaProject.Common\\Demo.CinemaProject.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Demo.Cinema.DAL.EntitiesDTO
+namespace Demo.CinemaProject.DAL.EntitiesDTO
 {
     public class Diffusion
     {
