@@ -1,0 +1,14 @@
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\bin\Debug\netstandard2.1\Demo.CinemaProject.BLL.deps.json
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\bin\Debug\netstandard2.1\Demo.CinemaProject.BLL.dll
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\bin\Debug\netstandard2.1\Demo.CinemaProject.BLL.pdb
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\bin\Debug\netstandard2.1\Demo.CinemaProject.Common.dll
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\bin\Debug\netstandard2.1\Demo.CinemaProject.DAL.dll
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\bin\Debug\netstandard2.1\Demo.CinemaProject.DAL.pdb
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\bin\Debug\netstandard2.1\Demo.CinemaProject.Common.pdb
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\obj\Debug\netstandard2.1\Demo.CinemaProject.BLL.csproj.AssemblyReference.cache
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\obj\Debug\netstandard2.1\Demo.CinemaProject.BLL.AssemblyInfoInputs.cache
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\obj\Debug\netstandard2.1\Demo.CinemaProject.BLL.AssemblyInfo.cs
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\obj\Debug\netstandard2.1\Demo.CinemaProject.BLL.csproj.CoreCompileInputs.cache
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\obj\Debug\netstandard2.1\Demo.CinemaProject.BLL.csproj.CopyComplete
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\obj\Debug\netstandard2.1\Demo.CinemaProject.BLL.dll
+C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.BLL\obj\Debug\netstandard2.1\Demo.CinemaProject.BLL.pdb

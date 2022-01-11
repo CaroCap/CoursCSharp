@@ -17,6 +17,7 @@ namespace Demo.CinemaProject.BLL.EntitiesBLL
                 {
                     throw new ArgumentOutOfRangeException(nameof(newTitre));
                 }
+                _titre = newTitre;
             }
         }
         public DateTime DateSortie { get; set; }

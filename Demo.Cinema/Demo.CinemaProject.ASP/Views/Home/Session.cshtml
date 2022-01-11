@@ -1,0 +1,16 @@
+﻿
+@using Microsoft.AspNetCore.Http
+@using Demo.CinemaProject.ASP.Handlers
+
+@inject SessionManager  sessionManager
+
+<h1>Session Démonstration</h1>
+
+@*<p>@ViewContext.HttpContext.Session.Get("MonTableauDeByte")</p>
+<p>@ViewContext.HttpContext.Session.GetString("ValeurString")</p>
+<p>@ViewContext.HttpContext.Session.GetInt32("ValeurInt")</p>*@
+
+@*Avec le Session Manager*@
+<p>@sessionManager.MonTableauDeByte.Length</p>
+<p>@sessionManager.ValeurString</p>
+<p>@sessionManager.ValeurInt</p>

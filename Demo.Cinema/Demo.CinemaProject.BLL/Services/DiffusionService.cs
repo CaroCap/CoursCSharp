@@ -1,6 +1,6 @@
 ﻿using Demo.CinemaProject.BLL.EntitiesBLL;
 using Demo.CinemaProject.BLL.Handlers;
-using Demo.CinemaProject.DAL.RepositoriesDAO;
+using Demo.CinemaProject.Common.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,7 +26,13 @@ namespace Demo.CinemaProject.BLL.Services
 
         public IEnumerable<DiffusionBLL> Get()
         {
-            return _diffusionRepository.Get().Select(d => d.ToBLL());
+            return _diffusionRepository.Get().Select(d =>
+            {
+                DiffusionBLL result = d.ToBLL();
+                result.Cinema = _cinemaRepository.GetByDiffusionId(result.Id).ToBLL();
+                result.Film = _filmRepository.GetByDiffusionId(result.Id).ToBLL();
+                return result;
+            });
         }
 
         public DiffusionBLL Get(int id)
@@ -44,12 +50,24 @@ namespace Demo.CinemaProject.BLL.Services
 
         public IEnumerable<DiffusionBLL> GetByCinemaId(int cinema_id)
         {
-            return _diffusionRepository.GetByCinemaId(cinema_id).Select(d => d.ToBLL());
+            return _diffusionRepository.GetByCinemaId(cinema_id).Select(d =>
+            {
+                DiffusionBLL result = d.ToBLL();
+                result.Cinema = _cinemaRepository.GetByDiffusionId(result.Id).ToBLL();
+                result.Film = _filmRepository.GetByDiffusionId(result.Id).ToBLL();
+                return result;
+            });
         }
 
         public IEnumerable<DiffusionBLL> GetByFilmId(int film_id)
         {
-            return _diffusionRepository.GetByFilmId(film_id).Select(d => d.ToBLL());
+            return _diffusionRepository.GetByFilmId(film_id).Select(d =>
+            {
+                DiffusionBLL result = d.ToBLL();
+                result.Cinema = _cinemaRepository.GetByDiffusionId(result.Id).ToBLL();
+                result.Film = _filmRepository.GetByDiffusionId(result.Id).ToBLL();
+                return result;
+            });
         }
 
         public int Insert(DiffusionBLL entity)

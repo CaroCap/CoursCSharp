@@ -1,0 +1,29 @@
+﻿@* A COPIER COLLER *@
+
+@using Microsoft.AspNetCore.Http.Features
+
+@{ 
+    var consentFeature = Context.Features.Get<ITrackingConsentFeature>();
+    var showBanner = !consentFeature?.CanTrack ?? false; //coalesce => si la première est null alors on va chercher la 2e => Solution pour ne jamais avoir un null
+    //showBanner sert à savoir si il faut afficher le banner des cookies ou non
+    var cookieString = consentFeature?.CreateConsentCookie();
+}
+
+@if (showBanner)
+            {
+                <div id="cookieConsent" class="alert alert-info alert-dismissible fade show" sole="alert">
+                    Le Site utilise des cookies, veuillez nous donner votre accord pour une utilisation complète du site.
+                    <a asp-action="Privacy" asp-controller="Home">En savoir +</a>
+                    <button type="button" class="accept-policy close" data-dismiss="alert" aria-label="Close" data-cookie-string="@cookieString">
+                        <span aria-hidden="true">Accepter</span>
+                    </button>
+                </div>
+                <script>
+                    (function () {
+                        let button = document.querySelector('#cookieConsent>button[data-cookie-string]');
+                        button.addEventListener("click", function (event) {
+                            document.cookie = button.dataset.cookieString;
+                        }, false); //false => permet de cliquer 1 fois et que ça ne se remette plus
+                    })();
+                </script>
+            }

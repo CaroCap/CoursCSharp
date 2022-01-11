@@ -110,7 +110,7 @@ namespace Demo.CinemaProject.DAL.RepositoriesDAO
                 {
                     // préféré décrire les noms de colonnes plutôt que d'utiliser * par faciliter pour gagné en efficacité pour l'application
                     // * va aller chercher toutes les colonnes à chaque ligne alors qu'on sait que le nom de la colonne n'a pas changé...
-                    command.CommandText = "SELECT [Cinema].[Id], [Nom], [Ville] FROM [Cinema] JOIN [Diffusion] ON [Cinema].[Id] WHERE [Diffusion].[id] = @id";
+                    command.CommandText = "SELECT [Cinema].[Id], [Nom], [Ville] FROM [Cinema] JOIN [Diffusion] ON [Cinema].[Id] = [Cinema_Id] WHERE [Diffusion].[id] = @id";
                     SqlParameter p_id = new SqlParameter() { ParameterName = "id", Value = diffusionId };
                     command.Parameters.Add(p_id);
                     connection.Open();

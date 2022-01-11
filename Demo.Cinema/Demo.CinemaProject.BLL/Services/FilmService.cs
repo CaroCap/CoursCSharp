@@ -1,7 +1,6 @@
 ﻿using Demo.CinemaProject.BLL.EntitiesBLL;
 using Demo.CinemaProject.BLL.Handlers;
 using Demo.CinemaProject.Common.Repositories;
-using Demo.CinemaProject.DAL.RepositoriesDAO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,6 +34,11 @@ namespace Demo.CinemaProject.BLL.Services
         public FilmBLL Get(int id)
         {
             return _filmRepository.Get(id).ToBLL();
+        }
+
+        public FilmBLL GetByDiffusionId(int diffusionId)
+        {
+            return _filmRepository.GetByDiffusionId(diffusionId).ToBLL();
         }
 
         public IEnumerable<FilmBLL> GetByYear(int year)

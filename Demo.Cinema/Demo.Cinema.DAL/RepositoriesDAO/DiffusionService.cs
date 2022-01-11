@@ -1,4 +1,5 @@
-﻿using Demo.CinemaProject.DAL.EntitiesDTO;
+﻿using Demo.CinemaProject.Common.Repositories;
+using Demo.CinemaProject.DAL.EntitiesDTO;
 using Demo.CinemaProject.DAL.Handlers;
 using System;
 using System.Collections.Generic;
@@ -7,7 +8,7 @@ using System.Text;
 
 namespace Demo.CinemaProject.DAL.RepositoriesDAO
 {
-    class DiffusionService : ServiceBase, IDiffusionRepository<Diffusion>
+    public class DiffusionService : ServiceBase, IDiffusionRepository<Diffusion>
     {
         public void Delete(int id)
         {

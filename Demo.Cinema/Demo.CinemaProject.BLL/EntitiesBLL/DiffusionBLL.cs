@@ -18,7 +18,7 @@ namespace Demo.CinemaProject.BLL.EntitiesBLL
         public DiffusionBLL(int id, DateTime dateDiff, CinemaBLL cinema, FilmBLL film)
         {
             // vérifier que film est déjà sorti avant de pouvoir le diffuser)
-            if (film.DateSortie > dateDiff) throw new ArgumentException();
+            //if (film.DateSortie > dateDiff) throw new ArgumentException(); PAS POSSIBLE CAR ARRIVERAIT NULL AVEC LE MAPPER
             Id = id;
             DateDiffusion = dateDiff;
             Cinema = cinema;
