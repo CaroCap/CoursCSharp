@@ -7,3 +7,9 @@ C:\Users\c.cap\source\repos\Demo.Cinema\Demo.Cinema.DataBase\obj\Debug\Model.xml
 C:\Users\c.cap\source\repos\Demo.Cinema\Demo.Cinema.DataBase\obj\Debug\refactor.xml
 C:\Users\c.cap\source\repos\Demo.Cinema\Demo.Cinema.DataBase\obj\Debug\postdeploy.sql
 C:\Users\c.cap\source\repos\Demo.Cinema\Demo.Cinema.DataBase\obj\Debug\predeploy.sql
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.Cinema.DataBase\bin\Debug\Demo.Cinema.DataBase.dacpac
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.Cinema.DataBase\bin\Debug\Demo.Cinema.DataBase.dll
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.Cinema.DataBase\bin\Debug\Demo.Cinema.DataBase.pdb
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.Cinema.DataBase\obj\Debug\Demo.Cinema.DataBase.sqlproj.AssemblyReference.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.Cinema.DataBase\obj\Debug\Demo.Cinema.DataBase.dll
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.Cinema.DataBase\obj\Debug\Demo.Cinema.DataBase.pdb

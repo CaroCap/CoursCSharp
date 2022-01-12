@@ -65,10 +65,10 @@ namespace Demo.CinemaProject.ASP.Controllers
         }
 
         // POUR LA SESSION USER
-        public IActionResult Login()
-        {
-            if (session.IsConnected) return RedirectToAction("Index", "Home");
-            return View();
-        }
+        //public IActionResult Login()
+        //{
+        //    if (session.IsConnected) return RedirectToAction("Index", "Home");
+        //    return View();
+        //}
     }
 }

@@ -6,3 +6,12 @@ C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.Common\obj\Debug\nets
 C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.Common\obj\Debug\netstandard2.1\Demo.CinemaProject.Common.csproj.CoreCompileInputs.cache
 C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.Common\obj\Debug\netstandard2.1\Demo.CinemaProject.Common.dll
 C:\Users\c.cap\source\repos\Demo.Cinema\Demo.CinemaProject.Common\obj\Debug\netstandard2.1\Demo.CinemaProject.Common.pdb
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.CinemaProject.Common\bin\Debug\netstandard2.1\Demo.CinemaProject.Common.deps.json
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.CinemaProject.Common\bin\Debug\netstandard2.1\Demo.CinemaProject.Common.dll
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.CinemaProject.Common\bin\Debug\netstandard2.1\Demo.CinemaProject.Common.pdb
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.CinemaProject.Common\obj\Debug\netstandard2.1\Demo.CinemaProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.CinemaProject.Common\obj\Debug\netstandard2.1\Demo.CinemaProject.Common.AssemblyInfoInputs.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.CinemaProject.Common\obj\Debug\netstandard2.1\Demo.CinemaProject.Common.AssemblyInfo.cs
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.CinemaProject.Common\obj\Debug\netstandard2.1\Demo.CinemaProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.CinemaProject.Common\obj\Debug\netstandard2.1\Demo.CinemaProject.Common.dll
+C:\Users\Mediamonster\source\repos\CoursCSharp\Demo.Cinema\Demo.CinemaProject.Common\obj\Debug\netstandard2.1\Demo.CinemaProject.Common.pdb
