@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31424.327
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Demo.Cinema.DataBase", "Demo.Cinema.DataBase\Demo.Cinema.DataBase.sqlproj", "{A88BFBBA-8175-46C0-A913-BF13E7B03CAE}"
 EndProject
@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.CinemaProject.Common",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASP", "ASP", "{4BEC5DC2-356F-47AB-9B57-AA7989B218B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.CinemaProject.ASP", "Demo.CinemaProject.ASP\Demo.CinemaProject.ASP.csproj", "{8BFAE792-9735-400C-9D60-BF2D55680F8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.CinemaProject.ASP", "Demo.CinemaProject.ASP\Demo.CinemaProject.ASP.csproj", "{8BFAE792-9735-400C-9D60-BF2D55680F8B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{6E1E7E0A-70C7-4BC3-9A95-F312ADFB46F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.CinemaProject.API", "Demo.CinemaProject.API\Demo.CinemaProject.API.csproj", "{68AFFF96-B199-4DF1-A9FD-ED015ED04191}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +51,10 @@ Global
 		{8BFAE792-9735-400C-9D60-BF2D55680F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BFAE792-9735-400C-9D60-BF2D55680F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BFAE792-9735-400C-9D60-BF2D55680F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68AFFF96-B199-4DF1-A9FD-ED015ED04191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AFFF96-B199-4DF1-A9FD-ED015ED04191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AFFF96-B199-4DF1-A9FD-ED015ED04191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AFFF96-B199-4DF1-A9FD-ED015ED04191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +63,7 @@ Global
 		{4D337D1A-6605-442A-8673-6BB7375B4B8D} = {83AAD662-10D7-4944-A836-13FCCA32504B}
 		{1094862C-F957-4E03-A427-A9C8BE468A2B} = {A1B044B1-F86B-4CC7-A221-07292FB81B32}
 		{8BFAE792-9735-400C-9D60-BF2D55680F8B} = {4BEC5DC2-356F-47AB-9B57-AA7989B218B2}
+		{68AFFF96-B199-4DF1-A9FD-ED015ED04191} = {6E1E7E0A-70C7-4BC3-9A95-F312ADFB46F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {10DE6723-8A42-4FAB-90BC-BB3B64CA0E83}
