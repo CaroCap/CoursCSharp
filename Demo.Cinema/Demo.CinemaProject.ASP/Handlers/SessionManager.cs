@@ -73,7 +73,7 @@ namespace Demo.CinemaProject.ASP.Handlers
 
 
 
-        // POUR LA SESSION USER
+        //POUR LA SESSION USER
         public bool IsConnected { get { return _session.GetString("user") != null; } } // Un booleen pour voir il y a un utilisateur connecté ou non
         public void SetUser(LoginForm form) // cf MyFirstMVC ici ma le Model LoginForm
         {

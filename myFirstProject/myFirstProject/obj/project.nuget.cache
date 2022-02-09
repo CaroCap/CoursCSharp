@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vWXRAe9JJz98WQ3/12+m7sQ+AiVZcbxj8iW2CvpN58+DTi5bryar+4KoUNYhCml3O9m7iQu8rYCcocRL6Vovpw==",
+  "dgSpecHash": "mo3Au6lsIsU1AdwmPcPAxH+ZSRtnAPlUUH9efqCAGWrnxpgAFC16mOeCrnEp3TVbOZ2hZqmynpCWJb3tk/wqqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\myFirstProject\\myFirstProject\\myFirstProject.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Mediamonster\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\c.cap\\source\\repos\\myFirstProject\\myFirstProject\\myFirstProject.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
