@@ -703,24 +703,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mediamonster\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\c.cap\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.CinemaProject.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.CinemaProject.DAL.csproj",
       "projectName": "Demo.CinemaProject.DAL",
-      "projectPath": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.CinemaProject.DAL.csproj",
-      "packagesPath": "C:\\Users\\Mediamonster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\Demo.Cinema\\Demo.Cinema.DAL\\obj\\",
+      "projectPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\Demo.CinemaProject.DAL.csproj",
+      "packagesPath": "C:\\Users\\c.cap\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.Cinema.DAL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mediamonster\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\c.cap\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -734,8 +729,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\Demo.Cinema\\Demo.CinemaProject.Common\\Demo.CinemaProject.Common.csproj": {
-              "projectPath": "C:\\Users\\Mediamonster\\source\\repos\\CoursCSharp\\Demo.Cinema\\Demo.CinemaProject.Common\\Demo.CinemaProject.Common.csproj"
+            "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.CinemaProject.Common\\Demo.CinemaProject.Common.csproj": {
+              "projectPath": "C:\\Users\\c.cap\\source\\repos\\Demo.Cinema\\Demo.CinemaProject.Common\\Demo.CinemaProject.Common.csproj"
             }
           }
         }
@@ -770,7 +765,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

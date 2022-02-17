@@ -32,7 +32,7 @@ namespace Demo.CinemaProject.API.Controllers
         [HttpGet("{id}")]
         public Film Get(int id)
         {
-            return _service.Get(id).ToAPI());
+            return _service.Get(id).ToAPI();
         }
 
         // POST api/<FilmController>

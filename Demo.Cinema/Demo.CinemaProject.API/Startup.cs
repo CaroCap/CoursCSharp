@@ -26,6 +26,15 @@ namespace Demo.CinemaProject.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // AJOUTER POUR API + plus bas (app.UseCors)
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(
+                    builder =>
+                    {
+                        builder.WithOrigins("*");
+                    });
+            });
 
             services.AddControllers();
 
@@ -50,6 +59,9 @@ namespace Demo.CinemaProject.API
             }
 
             app.UseRouting();
+
+            // AJOUTER POUR API
+            app.UseCors();
 
             app.UseAuthorization();
 
