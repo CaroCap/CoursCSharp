@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[TypeOption]
+(
+	[Id] INT NOT NULL IDENTITY,
+	[type] NVARCHAR(64) NOT NULL,
+	CONSTRAINT PK_TypeOption PRIMARY KEY([Id])
+)

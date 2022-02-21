@@ -1,0 +1,23 @@
+﻿CREATE TABLE [dbo].[Logement]
+(
+	[Id] INT NOT NULL IDENTITY,
+	[titre] NVARCHAR(64) NOT NULL,
+	[resum] NVARCHAR(200) NOT NULL, 
+	[description] NVARCHAR(MAX) NOT NULL, 
+	[pays] NVARCHAR(64) NOT NULL, 
+	[ville] VARCHAR(64) NOT NULL, 
+	[rue] NVARCHAR(150) NOT NULL,
+	[numero] VARCHAR(10) NOT NULL,
+	[CP] VARCHAR(20) NOT NULL,
+	[photo] NVARCHAR(150) NOT NULL,
+	[capacite] INT DEFAULT 1,
+	-- BOOL = BIT --> 1 for TRUE and 0 for FALSE
+	[assurance] BIT DEFAULT 1,
+	[actif] BIT DEFAULT 1,
+	[dateLastModification] DATETIME DEFAULT CURRENT_TIMESTAMP,
+	[user_ID] INT NOT NULL,
+	CONSTRAINT PK_Logement PRIMARY KEY([Id])
+)
+GO
+ALTER TABLE [Logement] ADD CONSTRAINT FK_Logement_User FOREIGN KEY ([user_Id]) REFERENCES [User]([Id])
+GO
